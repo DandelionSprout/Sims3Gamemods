@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/DandelionSprout/Sims3Gamemods/main/%E2%AC%A2(Things%20that%20aren't%20gamemods)%E2%AC%A2/Arcade%20machine%20visible%20skill%20screenshot%202.webp)<br>
 Still also available on ModTheSims at https://modthesims.info/d/680738/unhide-hidden-skills.html … for now.<br>
 # Original description
 At the time I originally wrote this (6th of November 2023), I had as many as 7 mods and 1 mod update being WIP, so I decided to take care of the one that would be quickest to complete.<br>
