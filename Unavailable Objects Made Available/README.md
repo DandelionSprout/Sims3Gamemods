@@ -1,6 +1,4 @@
-Uploaded here because it was rejected post-upload from https://modthesims.info/d/681216 on fake charges that the 9 screenshots were "too far" away. What did they ***fucking*** expect me to do? Add separate screenshots of all 140 objects? Are they fucking serious?<br>
-<br>
-I'm so fucking tired and burntout that I've got the body of a 85-year old, and I seriously wonder if I should simply stop waking up one day.<br>
+Uploaded here because it was rejected post-upload from https://modthesims.info/d/681216 on fake charges that the 9 screenshots were "too far" away (In reality only 2-ish could even vaguely be considered too far). Did they expect me to upload 140 separate screenshots of each one of all 140 objects? If that was to be the case, are they serious?<br>
 <br>
 # Original description<br>
 <br>
