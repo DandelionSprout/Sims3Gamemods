@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/DandelionSprout/Sims3Gamemods/main/%E2%AC%A2(Things%20that%20aren't%20gamemods)%E2%AC%A2/HUD%20astrology%20sign%20with%20forbidden%20circle.webp)<br>
 People who know me on GitHub, know that I'm [very hostile to astrology](https://github.com/DandelionSprout/adfilt/blob/master/Sensitive%20lists/AntiAstrologyList.txt), and that I consider it to be a huge tainting against the ideals of atheism, which I can fully admit to on GitHub.<br>
 ## Original description
 Now that time and space have moved well into the 21st century of the Common Era, it is well-established that astrology and zodiacs do not hold any real value in determining things. Sims characters, however, still seem to think that they hold tangible value in dating and relationships. This mod aims to make them grow out of that phase.<br>
