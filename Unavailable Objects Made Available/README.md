@@ -2,7 +2,7 @@ Uploaded here because it was rejected post-upload from https://modthesims.info/d
 # Original description
 There's a lot of objects in Sims 3 that Maxis didn't trust anyone who bought their game to do anything with, but which still remain in the game's code, and which can be made accessible again with relatively simple parameter changes in S3PE OBJD files.<br>
 <br>
-That's right: [i]No[/i] item cloning, [i]no[/i] custom content, these are the real deal objects that Maxis used when developing the game and its expansion packs.<br>
+That's right: *No* item cloning, *no* custom content, these are the real deal objects that Maxis used when developing the game and its expansion packs.<br>
 <br>
 This mod makes approximately 136 objects available in one or more of Buy Mode (often in BuyDebug), Build Mode, and/or Edit Town, contingent on the relevant expansion packs and/or one stuff pack being installed. For instance, if only the base game is installed and nothing else, 52 objects would be made available by this mod.<br>
 <br>
