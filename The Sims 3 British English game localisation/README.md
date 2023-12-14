@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/DandelionSprout/Sims3Gamemods/main/%E2%AC%A2(Things%20that%20aren't%20gamemods)%E2%AC%A2/British%20English%20cover.webp)<br>
 Still up at https://modthesims.info/d/679929/the-sims-3-british-english-game-localisation-v1-2-1-update.html, but I take **no** chances considering it had two "Changes Requested" and one delisting before it was finally approved there.
 # Original description
 As story goes, I browsed through recent Sims 3 uploads on Mod The Sims, and noticed the pretty good stuff that is [Fall → Autumn (English)](https://modthesims.info/d/679226/fall-autumn-english.html) by swiffy. So I figured that if she had cracked the code to modify Maxis translation strings, then surely I could do the same, and to even do mass edits in Sublime Text and export it to a .package file.<br>
