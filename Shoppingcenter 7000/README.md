@@ -1,4 +1,4 @@
-I honestly have no idea by now how MTS are going to react to a TBD v1.3, so I'm backing up 1.2.0 just in case.
+I honestly have no idea by now how MTS are going to react to a TBD v1.3, so I'm backing up 1.2.0 vjust in case.
 # Original description
 The shopping mall of a Sim's dreams. A safely indoor, weatherproof, and centralised point of gravity for whatever a Sim may wish for. Designed to not rely on too many expansion packs other than those needed for shopping, to save town space by making various existing lots feasible to delete, and is also a quick way to add features to neighbourhoods that weren't designed with them in mind (e.g. Riverview, Starlight Shores, etc.).<br>
 <br>
