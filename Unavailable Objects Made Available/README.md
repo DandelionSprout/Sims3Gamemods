@@ -1,5 +1,4 @@
 Uploaded here because it was rejected post-upload from https://modthesims.info/d/681216 on fake charges that the 9 screenshots were "too far" away (In reality only 2-ish could even vaguely be considered too far). Did they expect me to upload 140 separate screenshots of each one of all 140 objects? If that was to be the case, are they serious?<br>
-<br>
 # Original description
 There's a lot of objects in Sims 3 that Maxis didn't trust anyone who bought their game to do anything with, but which still remain in the game's code, and which can be made accessible again with relatively simple parameter changes in S3PE OBJD files.<br>
 <br>
