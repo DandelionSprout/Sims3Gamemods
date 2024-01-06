@@ -132,38 +132,53 @@ Known file changes:<br>
 •• "BeGhost": 0 > 200<br><br>
 
 • Remarkably, SimBots can in fact swim in at least swimming pools without shorting out, although their Energy motive will plummet. Such situations are listed here.<br>
-• (SwimAround_Pool)
-•• "MermaidDermalDehydration": ???? > 400
-•• "BePlantSim": ???? > 200
-•• "BuffPlantSimDehydrated": 0 > 300
-•• "BuffMermaidFlakey": 0 > 900
-•• "BuffMermaidDehydrated": 0 > 2000
-• (SwimAroundInOcean_Sim)
-•• "MermaidDermalDehydration": ???? > 300
-•• "BePlantSim": ???? > 150
-•• "BuffPlantSimDehydrated": 0 > 300
-•• "BuffMermaidFlakey": 0 > 900
-•• "BuffMermaidDehydrated": 0 > 2000
-•• "BuffDivingDeficiency": 0 > 200
-•• "BuffAdaptingToLand": 0 > 400
-• "Slide_WaterSlide"
-•• "MermaidDermalDehydration": ???? > 400
-•• "BePlantSim": ???? > 80
-•• "BuffPlantSimDehydrated": 0 > 300
-•• "BuffMermaidFlakey": 0 > 900
-•• "BuffMermaidDehydrated": 0 > 2000
+• (SwimAround_Pool)<br>
+•• "MermaidDermalDehydration": ???? > 400<br>
+•• "BePlantSim": ???? > 200<br>
+•• "BuffPlantSimDehydrated": 0 > 300<br>
+•• "BuffMermaidFlakey": 0 > 900<br>
+•• "BuffMermaidDehydrated": 0 > 2000<br>
+• (SwimAroundInOcean_Sim)<br>
+•• "MermaidDermalDehydration": ???? > 300<br>
+•• "BePlantSim": ???? > 150<br>
+•• "BuffPlantSimDehydrated": 0 > 300<br>
+•• "BuffMermaidFlakey": 0 > 900<br>
+•• "BuffMermaidDehydrated": 0 > 2000<br>
+•• "BuffDivingDeficiency": 0 > 200<br>
+•• "BuffAdaptingToLand": 0 > 400<br>
+• "Slide_WaterSlide"<br>
+•• "MermaidDermalDehydration": ???? > 400<br>
+•• "BePlantSim": ???? > 80<br>
+•• "BuffPlantSimDehydrated": 0 > 300<br>
+•• "BuffMermaidFlakey": 0 > 900<br>
+•• "BuffMermaidDehydrated": 0 > 2000<br><br>
 
-• Showers
-•• TBD
+• Showers<br>
+•• TBD<br><br>
 
-• Object upgrades, provided that only 1 upgrade is possible for a specific object
-• Mostly the same principles apply as for object repairs.
-•• (UpgradeAutoFill_JuiceKeg), (UpgradeAutoFill_JuiceKeg), and (UpgradeExtinguisher_Sim) Every single species in the game, unless listed below: 0 > 300<br>
-•• "ServoBotHandiBot": 0 or 200 > 500<br>
-•• "CleanerChip": 0 > 300<br>
-•• "SentienceChip": 0 > 300<br>
-•• "AbilityToLearnChip": 0 > 300<br>
-•• "EfficientChip": 0 > 200<br>
+• Object upgrades, provided that only 1 upgrade is possible for a specific object<br>
+• Mostly the same principles apply as for object repairs.<br>
+•• (UpgradeAutoFill_JuiceKeg), (UpgradeAutoFill_WaterTrough), and (UpgradeExtinguisher_Sim) Every single species in the game, unless listed below: 0 > 300<br>
+••• "ServoBotHandiBot": 0 or 200 > 500<br>
+••• "CleanerChip": 0 > 300<br>
+••• "SentienceChip": 0 > 300<br>
+••• "AbilityToLearnChip": 0 > 300<br>
+••• "EfficientChip": 0 > 200<br>
+•• (MagicallyUpgrade_GameObject) "BeWitch": 0 > 1000<br>
+•• (UpgradeCosmicBowling_BowlingLane), (UpgradeLookGoodMirrors_StylingMirrors), (UpgradeUnbreakable_ScienceResearchStation), (UpgradePowerCleanse_SonicShower), (UpgradeFireAlarm_FireStationAlarm), (UpgradeMakeUnbreakable_PetFeedingStation), (UpgradeAlwaysGoodFortune_FortuneCookieMaker), (UpgradeNeverLoses_Dartboard), (UpgradeFasterCooking_Microwave), (UpgradeToLevelTwo_BrainEnhancingMachineCollege), (UpgradeToLevelThree_BrainEnhancingMachineCollege)<br>
+••• "TraitHandy": 0 > 600<br>
+••• "SkillHandiness": 0 > 200<br>
+••• "ServoBotHandiBot": 0 or 200 > 500<br>
+••• "CleanerChip": 0 > 300<br>
+••• "SentienceChip": 0 > 300<br>
+••• "AbilityToLearnChip": 0 > 300<br>
+••• "EfficientChip": 0 > 200<br>
+••• "BeFrankenstein": 0 > 750<br>
+••• "BeMummy": 0 > 300<br>
+••• "BeGhost": 0 > 200<br><br>
+•• (UpgradeWardrobe_Wardrobe)<br>
+••• "BeWitch": 0 > 800<br>
+••• "SkillSpellcasting": 300 > 500<br><br>
 
 • Social actions to prevent Social motice collapses
 •• TBD
