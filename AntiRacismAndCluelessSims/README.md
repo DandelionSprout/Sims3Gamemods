@@ -23,10 +23,10 @@ Known file changes:<br>
 •• "BuffMermaidDehydrated": 0 > 1500<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
 •• "BeFrankenstein": ???? > -1000<br><br>
-•• (ReactToPrecipitation_PutUpUmbrella_Sim)<br><br>
-• "MermaidDermalDehydration": 0 > -500<br>
-• "BuffMermaidFlakey": 0 > -900<br>
-• "BuffMermaidDehydrated": 0 > -2000<br>
-• "BePlantSim": 0 > 190<br>
-• "BeFrankenstein": 0 > 1000<br><br>
+• (ReactToPrecipitation_PutUpUmbrella_Sim)<br>
+•• "MermaidDermalDehydration": 0 > -500<br>
+•• "BuffMermaidFlakey": 0 > -900<br>
+•• "BuffMermaidDehydrated": 0 > -2000<br>
+•• "BePlantSim": 0 > 190<br>
+•• "BeFrankenstein": 0 > 1000<br><br>
 • (UseToilet_Toilet) "Bladder": ???? > 1500
