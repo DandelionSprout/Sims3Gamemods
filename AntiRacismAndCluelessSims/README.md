@@ -1,5 +1,6 @@
-As of 6 January 2024, severe rash health problems prevent me from writing the entire gamemod description in one go (and certainly not screenshots or a full unabridged changelog) but I'll handle it gradually, as well as upload the actual gamemod to <i>de facto</i> Early Access, at some point in January.<br>
+As of 6 January 2024, severe rash health problems prevent me from writing the entire gamemod description in one go (and certainly not screenshots or a full unabridged changelog) but I'll handle it gradually, as well as upload the actual gamemod to <i>de facto</i> Early Access, at some point in January.<br><br>
 
+(Final name for the mod?:) "Make NPCs Smarter and Less Racist"<br>
 —————————————————————————————————————
 
 Known file changes:<br>
