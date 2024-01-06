@@ -55,4 +55,4 @@ Known file changes:<br>
 • (UseToilet_Toilet) "Bladder": ???? > 1500<br><br>
 
 —————————————————————————<br>
-To-do: Add Sleep/Nap/Pool/Idles info, add Food Synthesizer info, very importantly check if Eat Kelp is allowed as an autonomous action.
+To-do: Add Sleep/Nap/Pool/Idles/Showers info, add Food Synthesizer info, very importantly check if Eat Kelp is allowed as an autonomous action.
