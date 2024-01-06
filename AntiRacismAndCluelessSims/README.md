@@ -53,7 +53,7 @@ Known file changes:<br>
 • (Buy_FoodFromConcessionsStand_ConcessionsStand": "Hunger: 0 > 200<br>
 • (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br><br>
 • (EatKelp_Kelp) "Hunger": ???? > 1300<br>
-• (MermaidEat_Fish) "Hunger": ???? > 225
+• (MermaidEat_Fish) "Hunger": ???? > 225<br>
 • (SynthesizerOrder_FoodFoodSynthesizer) "Hunger": ???? > 600<br>
 • (OrderFavouriteFoodOnWaiter_SocialInteractio) "Hunger": ???? > 600<br>
 • (FutureBar_OrderDrinksServo) and (DrinkServoJuice_FutureBarGlass):<br>
@@ -154,7 +154,42 @@ Known file changes:<br>
 •• "BuffMermaidDehydrated": 0 > 2000<br><br>
 
 • Showers<br>
-•• TBD<br><br>
+•• (TakeShower_Shower):<br>
+••• "Hygiene": ???? > 800<br>
+••• "TraitSinged": ???? > 1500<br>
+••• "MermaidDermalDehydration: ???? > 800<br>
+••• "BuffMermaidFlakey": 0 > 900<br>
+••• "BuffMermaidDehydrated": 0 > 2000<br>
+••• "BePlantSim": ???? > 400<br>
+••• "BuffPlantSimDehydrated": 0 > 300<br>
+••• "BeFrankenstein": 0 > -1000<br>
+•• (TakeShower_ShowerBasic):<br>
+••• "Hygiene": ???? > 500<br>
+••• "TraitSinged": ???? > 1500<br>
+••• "MermaidDermalDehydration: ???? > 600<br>
+••• "BuffMermaidFlakey": 0 > 900<br>
+••• "BuffMermaidDehydrated": 0 > 2000<br>
+••• "BePlantSim": ???? > 200<br>
+••• "BuffPlantSimDehydrated": 0 > 300<br>
+••• "BeFrankenstein": 0 > -1000<br>
+•• (TakeShower_ShowerLoft):<br>
+••• "Hygiene": ???? > 600<br>
+••• "TraitSinged": ???? > 1500<br>
+••• "MermaidDermalDehydration: ???? > 300<br>
+••• "BuffMermaidFlakey": 0 > 900<br>
+••• "BuffMermaidDehydrated": 0 > 2000<br>
+••• "BePlantSim": ???? > 150<br>
+••• "BuffPlantSimDehydrated": 0 > 300<br>
+••• "BeFrankenstein": 0 > -1000<br>
+•• (TakeShower_ShowerTub):<br>
+••• "Hygiene": ???? > 800<br>
+••• "TraitSinged": ???? > 1500<br>
+••• "MermaidDermalDehydration: ???? > 800<br>
+••• "BuffMermaidFlakey": 0 > 900<br>
+••• "BuffMermaidDehydrated": 0 > 2000<br>
+••• "BePlantSim": ???? > 150<br>
+••• "BuffPlantSimDehydrated": 0 > 300<br>
+••• "BeFrankenstein": 0 > -1000<br><br>
 
 • Object upgrades, provided that only 1 upgrade is possible for a specific object<br>
 • Mostly the same principles apply as for object repairs.<br>
@@ -180,11 +215,54 @@ Known file changes:<br>
 ••• "BeWitch": 0 > 800<br>
 ••• "SkillSpellcasting": 300 > 500<br><br>
 
-• Social actions to prevent Social motice collapses
-•• TBD
+• Social actions to prevent Social motice collapses<br>
+•• (CallChat_Phone)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (SendChatText_PhoneCell)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (CallGeneric_Phone)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (BlogApp_PhoneSmart)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (SendPictureText_PhoneCell)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (ChatRandom_Computer) and (ChatRandom_HoloComputer)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (Chat_Sim)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (GroupChat_Sim) and (GroupChatB_Sim)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (SeatedChat_Sim)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (Chat_MagicMirror)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br>
+•• (ChatWithBonehilda)<br>
+••• "Social": ???? > ????<br>
+••• "BuffLonely": 0 > ????<br>
+••• "BuffDesolate": 0 > ????<br><br>
 
 • Other:<br>
 •• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br><br>
 
 —————————————————————————<br>
-To-do: Idles/Showers info, look into viability for social actions for <i>player</i> Sims, make toilet/shower repairs autonomous
+To-do: Idles info, run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots again.
