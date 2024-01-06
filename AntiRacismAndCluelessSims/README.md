@@ -99,7 +99,7 @@ Known file changes:<br>
 •• "BuffDrained": 0 > 1200<br><br>
 
 • Other:<br>
-•• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that will prevent the "Hunted" moodlet)<br><br>
+•• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br><br>
 
 
 
