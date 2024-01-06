@@ -96,7 +96,12 @@ Known file changes:<br>
 •• "BuffTired": 0 > 1100<br>
 •• "BuffLethargic": 0 > 1100<br>
 •• "BuffExhausted": 0 > 1200<br>
-•• "BuffDrained": 0 > 1200<br>
+•• "BuffDrained": 0 > 1200<br><br>
+
+• Other:<br>
+•• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that will prevent the "Hunted" moodlet)<br><br>
+
+
 
 —————————————————————————<br>
-To-do: Pool/Idles/Showers info, look into viability for social actions for <i>player</i> Sims, tune "Go to work" (incl. werewolf stuff) values so Sims don't leave work and stand outside without going back in, set everything's "Allow on all lots" to True, make toilet/shower repairs autonomous
+To-do: Pool/Idles/Showers info, look into viability for social actions for <i>player</i> Sims, set everything's "Allow on all lots" to True, make toilet/shower repairs autonomous
