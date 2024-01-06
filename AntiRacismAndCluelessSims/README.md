@@ -52,7 +52,19 @@ Known file changes:<br>
 • (Buy_FoodFromConcessionsStand_ConcessionsStand": "Hunger: 0 > 200<br>
 • (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br><br>
 
-• (UseToilet_Toilet) "Bladder": ???? > 1500<br><br>
+• (UseToilet_Toilet) "Bladder": ???? > 1500<br>
+• (PlayWithSprinkler_Sprinkler):<br>
+•• "BePlantSim": ???? > 110<br>
+•• "MermaidDermalDehydration": ???? > 300<br>
+•• "BuffMermaidFlakey": 0 > 900<br>
+•• "BuffMermaidDehydrated": 0 > 2000<br>
+• (Slide_SlippySlide):<br>
+•• "MermaidDermalDehydration": ???? > 150<br>
+•• "BuffMermaidFlakey": 0 > 800<br>
+•• "BuffMermaidDehydrated": 0 > 1500<br>
+•• "BePlantSim": ???? > 80<br>
+•• "BuffPlantSimDehydrated": 0 > 300<br>
+•• "BeFrankenstein": ???? > -1000<br><br>
 
 —————————————————————————<br>
 To-do: Add Sleep/Nap/Pool/Idles/Showers info, add Food Synthesizer info, very importantly check if Eat Kelp is allowed as an autonomous action, tune the values of "Pour bucket on fainted mermaid" and the Drink Synthesizer for Plumbots, look into viability for social actions for <i>player</i> Sims.
