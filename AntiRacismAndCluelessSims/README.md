@@ -68,4 +68,4 @@ Known file changes:<br>
 •• "BeFrankenstein": ???? > -1000<br><br>
 
 —————————————————————————<br>
-To-do: Add Sleep/Nap/Pool/Idles/Showers info, add Food Synthesizer info, very importantly check if Eat Kelp is allowed as an autonomous action, tune the values of "Pour bucket on fainted mermaid" and the Drink Synthesizer for Plumbots, look into viability for social actions for <i>player</i> Sims.
+To-do: Add Sleep/Nap/Pool/Idles/Showers info, add Food Synthesizer info, very importantly check if Eat Kelp is allowed as an autonomous action, tune the values of "Pour bucket on fainted mermaid" and the Drink Synthesizer for Plumbots, look into viability for social actions for <i>player</i> Sims, tune "Go to work" (incl. werewolf stuff) values so Sims don't leave work and stand outside without going back in.
