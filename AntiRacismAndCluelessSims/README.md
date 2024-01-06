@@ -29,4 +29,30 @@ Known file changes:<br>
 •• "BuffMermaidDehydrated": 0 > -2000<br>
 •• "BePlantSim": 0 > 190<br>
 •• "BeFrankenstein": 0 > 1000<br><br>
-• (UseToilet_Toilet) "Bladder": ???? > 1500
+
+• On top of all other things NPCs on large lots will just stand still without fixing, is their Hunger motives, necessitating a lot of changes:<br>
+• (EatHere_EatHere; presumably the diner) "Hunger": ???? > 2000<br>
+• (EatOutside_Bistro) "Hunger": ???? > 750<br>
+• (Fridge_Have_Frige) and (Fridge_Have_FridgeModerate):<br>
+•• "Hunger": ???? > 800<br>
+•• "VampireThirst": ???? > 1500<br>
+• (HaveJuiceDefinition_Fridge):<br>
+•• "Hunger": ???? > 150<br>
+•• "VampireThirst": ???? > 2000<br>
+• (HaveSnack_MiniFridge; i.e. the University Life fridge):<br>
+•• "Hunger": ???? > 600<br>
+•• "VampireThirst": ???? > 2000<br>
+• (GrabFood_BuffetTable) "Hunger": ???? > 900<br>
+• (OrderFood_BarProfessional) "Hunger: ???? > 1500<br>
+• (OrderFood_FoodTruck):<br>
+•• "Hunger": ???? > 700<br>
+•• "VampireThirst": ???? > 800<br>
+• (SummonFood_Sim; available to genies) "Hunger": ???? > 1000<br>
+• (BuyToEat_VendingMachine) "Hunger": 0 > 400<br>
+• (Buy_FoodFromConcessionsStand_ConcessionsStand": "Hunger: 0 > 200<br>
+• (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br><br>
+
+• (UseToilet_Toilet) "Bladder": ???? > 1500<br><br>
+
+—————————————————————————<br>
+To-do: Add Sleep/Nap/Pool/Idles info, add Food Synthesizer info, very importantly check if Eat Kelp is allowed as an autonomous action.
