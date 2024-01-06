@@ -53,6 +53,7 @@ Known file changes:<br>
 • (Buy_FoodFromConcessionsStand_ConcessionsStand": "Hunger: 0 > 200<br>
 • (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br><br>
 • (EatKelp_Kelp) "Hunger": ???? > 1300<br>
+• (MermaidEat_Fish) "Hunger": ???? > 225
 • (SynthesizerOrder_FoodFoodSynthesizer) "Hunger": ???? > 600<br>
 • (OrderFavouriteFoodOnWaiter_SocialInteractio) "Hunger": ???? > 600<br>
 • (FutureBar_OrderDrinksServo) and (DrinkServoJuice_FutureBarGlass):<br>
@@ -128,17 +129,47 @@ Known file changes:<br>
 •• "EfficientChip": 0 > 200<br>
 •• "BeFrankenstein": 0 > 750<br>
 •• "BeMummy": 0 > 300<br>
-•• "BeGhost": 0 > 200<br>
+•• "BeGhost": 0 > 200<br><br>
 
-• Remarkably, SimBots can in fact swim in at least swimming pools without shorting out, although their Energy motive will plummet. Such situations are listed here.
-••
-••
-••
-••
-••
+• Remarkably, SimBots can in fact swim in at least swimming pools without shorting out, although their Energy motive will plummet. Such situations are listed here.<br>
+• (SwimAround_Pool)
+•• "MermaidDermalDehydration": ???? > 400
+•• "BePlantSim": ???? > 200
+•• "BuffPlantSimDehydrated": 0 > 300
+•• "BuffMermaidFlakey": 0 > 900
+•• "BuffMermaidDehydrated": 0 > 2000
+• (SwimAroundInOcean_Sim)
+•• "MermaidDermalDehydration": ???? > 300
+•• "BePlantSim": ???? > 150
+•• "BuffPlantSimDehydrated": 0 > 300
+•• "BuffMermaidFlakey": 0 > 900
+•• "BuffMermaidDehydrated": 0 > 2000
+•• "BuffDivingDeficiency": 0 > 200
+•• "BuffAdaptingToLand": 0 > 400
+• "Slide_WaterSlide"
+•• "MermaidDermalDehydration": ???? > 400
+•• "BePlantSim": ???? > 80
+•• "BuffPlantSimDehydrated": 0 > 300
+•• "BuffMermaidFlakey": 0 > 900
+•• "BuffMermaidDehydrated": 0 > 2000
+
+• Showers
+•• TBD
+
+• Object upgrades, provided that only 1 upgrade is possible for a specific object
+• Mostly the same principles apply as for object repairs.
+•• (UpgradeAutoFill_JuiceKeg), (UpgradeAutoFill_JuiceKeg), and (UpgradeExtinguisher_Sim) Every single species in the game, unless listed below: 0 > 300<br>
+•• "ServoBotHandiBot": 0 or 200 > 500<br>
+•• "CleanerChip": 0 > 300<br>
+•• "SentienceChip": 0 > 300<br>
+•• "AbilityToLearnChip": 0 > 300<br>
+•• "EfficientChip": 0 > 200<br>
+
+• Social actions to prevent Social motice collapses
+•• TBD
 
 • Other:<br>
 •• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br><br>
 
 —————————————————————————<br>
-To-do: Pool/Idles/Showers info, look into viability for social actions for <i>player</i> Sims, set everything's "Allow on all lots" to True, make toilet/shower repairs autonomous
+To-do: Idles/Showers info, look into viability for social actions for <i>player</i> Sims, make toilet/shower repairs autonomous
