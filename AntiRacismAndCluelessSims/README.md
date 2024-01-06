@@ -175,7 +175,7 @@ Known file changes:<br>
 ••• "EfficientChip": 0 > 200<br>
 ••• "BeFrankenstein": 0 > 750<br>
 ••• "BeMummy": 0 > 300<br>
-••• "BeGhost": 0 > 200<br><br>
+••• "BeGhost": 0 > 200<br>
 •• (UpgradeWardrobe_Wardrobe)<br>
 ••• "BeWitch": 0 > 800<br>
 ••• "SkillSpellcasting": 300 > 500<br><br>
