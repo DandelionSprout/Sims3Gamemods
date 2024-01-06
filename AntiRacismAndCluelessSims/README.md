@@ -98,6 +98,16 @@ Known file changes:<br>
 •• "BuffExhausted": 0 > 1200<br>
 •• "BuffDrained": 0 > 1200<br><br>
 
+• Sims with the Inappropriate trait autonomously kept making forum posts too often, and then they couldn't be bothered to actually check the replies afterwards.<br>
+• (MakeForumPostingInappropriate_Computer) and (MakeForumPostingInappropriate_HoloComputer)<br>
+•• "TraitInappropriate": 200 > 50<br>
+•• "TraitMeanSpirited": 200 > 50<br>
+• (MakeForumPostingTroll_Computer) and (MakeForumPostingTroll_HoloComputer):<br>
+•• "TraitEvil": 200 > 200<br>
+•• "TraitMeanSpirited": 200 > 50<br>
+• (CheckForResponses_Computer) and (CheckForResponses_HoloComputer):<br>
+•• All species except Plumbots: 0 > 250<br><br>
+
 • Other:<br>
 •• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br><br>
 
