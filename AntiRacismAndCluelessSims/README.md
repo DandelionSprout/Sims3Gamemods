@@ -52,6 +52,13 @@ Known file changes:<br>
 • (BuyToEat_VendingMachine) "Hunger": 0 > 400<br>
 • (Buy_FoodFromConcessionsStand_ConcessionsStand": "Hunger: 0 > 200<br>
 • (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br><br>
+• (EatKelp_Kelp) "Hunger": ???? > 1300<br>
+• (SynthesizerOrder_FoodFoodSynthesizer) "Hunger": ???? > 600<br>
+• (OrderFavouriteFoodOnWaiter_SocialInteractio) "Hunger": ???? > 600<br>
+• (FutureBar_OrderDrinksServo) and (DrinkServoJuice_FutureBarGlass):<br>
+•• "Maintenance": 40 > 1000<br>
+•• "BuffNeedsRepairs": 0 > 300<br>
+•• "BuffEmotionalMalfunction": 0 > 200<br><br>
 
 • (UseToilet_Toilet) "Bladder": ???? > 1500<br>
 • (PlayWithSprinkler_Sprinkler):<br>
@@ -67,5 +74,29 @@ Known file changes:<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
 •• "BeFrankenstein": ???? > -1000<br><br>
 
+• Sims also often faint apropos of nothing, and generally don't do anything about it before they, well, faint.<br>
+• (BedSleep_Bed):<br>
+•• "Energy": ???? > 800<br>
+•• "BuffTired": 0 > 1500<br>
+•• "BuffLethargic": 0 > 1500<br>
+•• "BuffExhausted": 0 > 1600<br>
+•• "BuffDrained": 0 > 1600<br>
+• (BedNap_Bed):<br>
+•• "Energy": ???? > 400<br>
+•• "BuffExhausted" ???? > 800<br>
+•• "BuffDrained": ???? > 800<br>
+• (DreamPodSleep_BedDreamPod)<br>
+•• "Energy": ???? > 500<br>
+•• "BuffTired": 0 > 1500<br>
+•• "BuffLethargic": 0 > 1500<br>
+•• "BuffExhausted": 0 > 1600<br>
+•• "BuffDrained": 0 > 1600<br>
+• (Nap_ChairLounge), (Nap_IHasSeatingGroup), and (Nap_RockingChair):<br>
+•• "Energy": ???? > 300<br>
+•• "BuffTired": 0 > 1100<br>
+•• "BuffLethargic": 0 > 1100<br>
+•• "BuffExhausted": 0 > 1200<br>
+•• "BuffDrained": 0 > 1200<br>
+
 —————————————————————————<br>
-To-do: Add Sleep/Nap/Pool/Idles/Showers info, add Food Synthesizer info, very importantly check if Eat Kelp is allowed as an autonomous action, tune the values of "Pour bucket on fainted mermaid" and the Drink Synthesizer for Plumbots, look into viability for social actions for <i>player</i> Sims, tune "Go to work" (incl. werewolf stuff) values so Sims don't leave work and stand outside without going back in.
+To-do: Pool/Idles/Showers info, look into viability for social actions for <i>player</i> Sims, tune "Go to work" (incl. werewolf stuff) values so Sims don't leave work and stand outside without going back in, set everything's "Allow on all lots" to True, make toilet/shower repairs autonomous
