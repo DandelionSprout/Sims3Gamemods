@@ -106,12 +106,39 @@ Known file changes:<br>
 •• "TraitEvil": 200 > 200<br>
 •• "TraitMeanSpirited": 200 > 50<br>
 • (CheckForResponses_Computer) and (CheckForResponses_HoloComputer):<br>
-•• All species except Plumbots: 0 > 250<br><br>
+•• All species except Plumbots: 0 > 250<br>
+
+• Repairing objects that can't possibly lead to electrocution.<br>
+•• (RepairSink_Sink), (RepairToilet_Toilet), (RepairShower_Shower), and (Repair_AllInOneBathroom) Every single species in the game, unless listed below: 0 > 300<br>
+•• "ServoBotHandiBot": 0 or 200 > 500<br>
+•• "CleanerChip": 0 > 300<br>
+•• "SentienceChip": 0 > 300<br>
+•• "AbilityToLearnChip": 0 > 300<br>
+•• "EfficientChip": 0 > 200<br>
+• (FairyRepair_IGameObject): "BeFairy": 0 > 900<br>
+• (ServoBotRepair_IGameObject): "ServoBot": 15 > 500<br>
+• (AlienRepair_IGameObject): "BeAlien": 0 > 500<br><br>
+
+• Repairing quite a large number of objects that can in fact lead to electrocution.<br>
+• (Repair_FortuneCookieMaker), (Repair_NectarMaker), (Repair_PetFeedingStation), (Repair_RoutineStation), (Repair_SleepPodFuture), (Repair_TattooChairAdvanced), (Repair_TattoChair), (Repair_Teleporter), (Repair_TimeMachine), (Repair_TrashCompactor), (Repair_WashingMachine), (RepairBrainEnhanceingMachine_BrainEnhancingMachine), (RepairComputer_Computer), (RepairComputer_HoloComputer), (RepairDishwasher_Dishwasher), (RepairEDS_ElectroDanceSphere), (RepairFrankenstein_Sim), (RepairHelm_Helm), (RepairJukebox_Jukebox), (RepairKaraokeMachine_KaraokeMachine), (RepairSpeaker_WallMountSpeaker), (RepairStation_ScienceResearchStation), (RepairStereo_Stereo), (RepairTV_TV), and (RepairVendingMachine_VendingMachine)<br>
+•• "ServoBotHandiBot": 0 or 200 > 500<br>
+•• "CleanerChip": 0 > 300<br>
+•• "SentienceChip": 0 > 300<br>
+•• "AbilityToLearnChip": 0 > 300<br>
+•• "EfficientChip": 0 > 200<br>
+•• "BeFrankenstein": 0 > 750<br>
+•• "BeMummy": 0 > 300<br>
+•• "BeGhost": 0 > 200<br>
+
+• Remarkably, SimBots can in fact swim in at least swimming pools without shorting out, although their Energy motive will plummet. Such situations are listed here.
+••
+••
+••
+••
+••
 
 • Other:<br>
 •• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br><br>
-
-
 
 —————————————————————————<br>
 To-do: Pool/Idles/Showers info, look into viability for social actions for <i>player</i> Sims, set everything's "Allow on all lots" to True, make toilet/shower repairs autonomous
