@@ -101,6 +101,24 @@ Known file changes:<br>
 •• "BuffLethargic": 0 > 1100<br>
 •• "BuffExhausted": 0 > 1200<br>
 •• "BuffDrained": 0 > 1200<br><br>
+• (Sleep_FairyHouse)
+•• "Energy": 170.64 > 700<br>
+•• "BuffTired": 0 > 1200<br>
+•• "BuffExhausted": 0 > 1400<br>
+• (Nap_FairyHouse):<br>
+•• "Energy": 110 > 300<br>
+•• "BuffTired": 0 > 1100<br>
+•• "BuffExhausted": 0 > 1200<br>
+• (Sleep_ISleepingBag):<br>
+•• "Energy": 100 > 300
+•• "BuffTired": 0 > 500<br>
+•• "BuffLethargic": 0 > 500<br>
+•• "BuffExhausted": 0 > 900<br>
+•• "BuffDrained": 0 > 900<br><br>
+•• "TraitLovesTheOutdoors": 0 > 300<br>
+• Vampire altars:<br>
+•• "BuffLethargic": 0 > 1500<br>
+•• "BuffDrained": 0 > 1600<br>
 
 • Sims with the Inappropriate trait autonomously kept making forum posts too often, and then they couldn't be bothered to actually check the replies afterwards.<br>
 • (MakeForumPostingInappropriate_Computer) and (MakeForumPostingInappropriate_HoloComputer)<br>
@@ -300,8 +318,10 @@ Known file changes:<br>
 •• "Hygiene": ???? > 400<br>
 •• MermaidDermalHydration: 50 > 400<br>
 •• "BeSinged": 0 > 1000<br>
+• (Sim+BladderFailure_0x252b38f29d72b0a8) "kDistanceToReact": 10 > 0
+• (BuffExhausted+PassOut_0x2cad2a5b7ecfd7cd) "kDistanceToReact": 10 > 0
 
 —————————————————————————<br>
-To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important); check if SimBots can safely Sponge Bath.<br><br>
+To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids and anti-SimBots; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important); check if SimBots can safely Sponge Bath; attempt to let Plumbots drain energy from "safe" objects like arcade machines.<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
