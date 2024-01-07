@@ -1,4 +1,4 @@
-As of 6 January 2024, severe rash health problems prevent me from writing the entire gamemod description in one go (and certainly not screenshots or a full unabridged changelog) but I'll handle it gradually, as well as upload the actual gamemod to <i>de facto</i> Early Access, at some point in January.<br><br>
+As of 6~7 January 2024, severe rash health problems prevent me from writing the entire gamemod description in one go (and certainly not screenshots or a full unabridged changelog) but I'll handle it gradually, as well as upload the actual gamemod to <i>de facto</i> Early Access, at some point in January.<br><br>
 
 (Final name for the mod?:) "Make NPCs Smarter and Less Racist"<br><br>
 
@@ -284,7 +284,17 @@ Known file changes:<br>
 • (CallFirefighters_Phone) "BeInFirefighterEmergency": 0 > 200<br><br>
 
 • Other:<br>
-•• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br><br>
+• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br>
+• (WorkInRabbitHole_RabbitHole)<br>
+•• Every single species in the game, alongside Plumbots with the Office Drone chip: ???? > 1500; updateEvenOnFailure: false > true<br>
+•• "TraitWorkaholic": ???? > 1000<br>
+•• "TraitAmbitious": ???? > 300<br>
+•• "TraitSchmoozer": ???? > 300<br>
+•• "Work": ???? > 500<br>
+• (GetInCarpool_CarNpc):<br>
+•• Every single species in the game, alongside Plumbots with the Office Drone chip: ???? > 750; updateEvenOnFailure: false > true<br>
+•• "TraitWorkaholic": ???? > 1000<br>
+•• "TraitEcoFriendly": 0 > -500<br><br>
 
 —————————————————————————<br>
 To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids<br><br>
