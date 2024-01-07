@@ -114,7 +114,7 @@ Known file changes:<br>
 •• "BuffTired": 0 > 500<br>
 •• "BuffLethargic": 0 > 500<br>
 •• "BuffExhausted": 0 > 900<br>
-•• "BuffDrained": 0 > 900<br><br>
+•• "BuffDrained": 0 > 900<br>
 •• "TraitLovesTheOutdoors": 0 > 300<br>
 • Vampire altars:<br>
 •• "BuffLethargic": 0 > 1500<br>
