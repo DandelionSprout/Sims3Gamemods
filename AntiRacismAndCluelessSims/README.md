@@ -302,6 +302,6 @@ Known file changes:<br>
 •• "BeSinged": 0 > 1000<br>
 
 —————————————————————————<br>
-To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important)<br><br>
+To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important); check if SimBots can safely Sponge Bath.<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
