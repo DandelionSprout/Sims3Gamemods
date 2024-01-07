@@ -101,7 +101,7 @@ Known file changes:<br>
 •• "BuffLethargic": 0 > 1100<br>
 •• "BuffExhausted": 0 > 1200<br>
 •• "BuffDrained": 0 > 1200<br><br>
-• (Sleep_FairyHouse)
+• (Sleep_FairyHouse)<br>
 •• "Energy": 170.64 > 700<br>
 •• "BuffTired": 0 > 1200<br>
 •• "BuffExhausted": 0 > 1400<br>
@@ -167,8 +167,8 @@ Known file changes:<br>
 •• "BuffMermaidDehydrated": 0 > 2000<br>
 •• "BuffDivingDeficiency": 0 > 200<br>
 •• "BuffAdaptingToLand": 0 > 400<br>
-• "Slide_WaterSlide"<br>
-•• "MermaidDermalDehydration": ???? > 400<br>
+• (Slide_WaterSlide), (Dive_DivingBoard), and (Dive_DiveWell)<br>
+•• "MermaidDermalDehydration": ???? or 40 > 400<br>
 •• "BePlantSim": ???? > 80<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
 •• "BuffMermaidFlakey": 0 > 900<br>
@@ -318,10 +318,23 @@ Known file changes:<br>
 •• "Hygiene": ???? > 400<br>
 •• MermaidDermalHydration: 50 > 400<br>
 •• "BeSinged": 0 > 1000<br>
-• (Sim+BladderFailure_0x252b38f29d72b0a8) "kDistanceToReact": 10 > 0
-• (BuffExhausted+PassOut_0x2cad2a5b7ecfd7cd) "kDistanceToReact": 10 > 0
+• (Sim+BladderFailure_0x252b38f29d72b0a8) "kDistanceToReact": 10 > 0<br>
+• (BuffExhausted+PassOut_0x2cad2a5b7ecfd7cd) "kDistanceToReact": 10 > 0<br>
+• (SyphonPower_IgameObject):<br>
+•• "BeInBotEmporium": 0 > 250<br>
+•• "BeInGalleryShop": 0 > 100<br>
+•• "BeInArcade": 0 > 100<br>
+•• "BeAtResort": 0 > -50<br>
+•• "BeInGym": 0 > -100<br>
+•• "BeInSalon": 0 > -100<br>
+•• "BeInGalleryShop": 0 > -100<br>
+•• "BeInRebelHangout": 0 > -100<br>
+•• "BeInLaundromat": 0 > -250<br>
+•• "BeInDiveBar": 0 > -250<br>
+•• "BeInCocktailLounge": 0 > -250<br>
+•• "BeInDanceClub": 0 > -250<br>
 
 —————————————————————————<br>
-To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids and anti-SimBots; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important); check if SimBots can safely Sponge Bath; attempt to let Plumbots drain energy from "safe" objects like arcade machines.<br><br>
+To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; possibly allow additional traits to Sponge Bath?; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important); check if SimBots can safely Sponge Bath<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
