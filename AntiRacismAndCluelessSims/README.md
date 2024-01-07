@@ -1,8 +1,11 @@
 As of 6 January 2024, severe rash health problems prevent me from writing the entire gamemod description in one go (and certainly not screenshots or a full unabridged changelog) but I'll handle it gradually, as well as upload the actual gamemod to <i>de facto</i> Early Access, at some point in January.<br><br>
 
-(Final name for the mod?:) "Make NPCs Smarter and Less Racist"<br>
-—————————————————————————————————————
+(Final name for the mod?:) "Make NPCs Smarter and Less Racist"<br><br>
 
+Working names included "Pyramid Mummy Money" and "Make Sims Smarter".<br>
+—————————————————————————————————————<br>
+‰Insert flavour intro text here.‰<br>
+—————————————————————————————————————<br>
 Known file changes:<br>
 • FrankensteinReaction_Sim, MummyReaction_Sim, and GhostReaction_Sim have had "AgeSpeciesValue" changed from "C,T,Y,A,E" to the non-existent value "F", ensuring that such hostile species-ist reactions cannot ever happen.<br>
 • Sim+BladderFailure_0x252b38f2929d72b0a8 and BuffExhausted+PassOut_0x3cad2a5b7ecfd7cd have had "kDistanceToReact" changed from 10 to 0, because Sims reacting to them would make them run out of rabbitholes (Confirmed for the Vault of Antiquity) just to be scared at it, and then lose track of everything they were doing and later proceed hours later to <i>also</i> wet themselves or faint.<br>
@@ -193,12 +196,13 @@ Known file changes:<br>
 
 • Object upgrades, provided that only 1 upgrade is possible for a specific object<br>
 • Mostly the same principles apply as for object repairs.<br>
-•• (UpgradeAutoFill_JuiceKeg), (UpgradeAutoFill_WaterTrough), and (UpgradeExtinguisher_Sim) Every single species in the game, unless listed below: 0 > 300<br>
+•• (UpgradeAutoFill_JuiceKeg), (UpgradeAutoFill_WaterTrough), (UpgradeMakeAutoWater_Sprinkler) and (UpgradeExtinguisher_Sim) Every single species in the game, unless listed below: 0 > 300<br>
 ••• "ServoBotHandiBot": 0 or 200 > 500<br>
 ••• "CleanerChip": 0 > 300<br>
 ••• "SentienceChip": 0 > 300<br>
 ••• "AbilityToLearnChip": 0 > 300<br>
 ••• "EfficientChip": 0 > 200<br>
+•• Additional for (UpgradeMakeAutoWater_Sprinker): "BeInFirefighterEmergency": 0 > 100<br>
 •• (MagicallyUpgrade_GameObject) "BeWitch": 0 > 1000<br>
 •• (UpgradeCosmicBowling_BowlingLane), (UpgradeLookGoodMirrors_StylingMirrors), (UpgradeUnbreakable_ScienceResearchStation), (UpgradePowerCleanse_SonicShower), (UpgradeFireAlarm_FireStationAlarm), (UpgradeMakeUnbreakable_PetFeedingStation), (UpgradeAlwaysGoodFortune_FortuneCookieMaker), (UpgradeNeverLoses_Dartboard), (UpgradeFasterCooking_Microwave), (UpgradeToLevelTwo_BrainEnhancingMachineCollege), (UpgradeToLevelThree_BrainEnhancingMachineCollege)<br>
 ••• "TraitHandy": 0 > 600<br>
@@ -261,8 +265,28 @@ Known file changes:<br>
 ••• "BuffLonely": 0 > ????<br>
 ••• "BuffDesolate": 0 > ????<br><br>
 
+• Causes the Sims to no longer run towards a fire and scream for 2 hours, unless it is to actively try to actually extinguish the fire.<br>
+• (ReactToFire_IGameObject) ???? > F<br>
+• (CastIceBlastTerrain_Fire:<br>
+•• "ExtinguishSelf": ???? > 1200<br>
+•• "BeInFirefighterEmergency": 200 > 300<br>
+•• "BeScenarioFirefighter": 200 > 300<br>
+•• "SkillSpellcasting": 0 > 600<br>
+•• "BeGhost": 0 > 1000<br>
+•• "TraitDaredevil": 0 > 500<br>
+•• "TraitImmuneToFire": 0 > 1000<br>
+•• "????" ???? > ????<br>
+• (Extinguish_Fire):<br>
+•• "BeFrankenstein": 0 > 1000<br>
+•• "BeGhost": 0 > 1000<br>
+•• "TraitDaredevil": 0 > 500<br>
+•• "TraitImmuneToFire": 0 > 1000<br>
+• (CallFirefighters_Phone) "BeInFirefighterEmergency": 0 > 200<br><br>
+
 • Other:<br>
 •• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br><br>
 
 —————————————————————————<br>
-To-do: Idles info, run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots again.
+To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots again set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?<br><br>
+
+Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
