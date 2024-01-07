@@ -294,7 +294,7 @@ Known file changes:<br>
 • (GetInCarpool_CarNpc):<br>
 •• Every single species in the game, alongside Plumbots with the Office Drone chip: ???? > 750; updateEvenOnFailure: false > true<br>
 •• "TraitWorkaholic": ???? > 1000<br>
-•• "TraitEcoFriendly": 0 > -500<br><br>
+•• "TraitEcoFriendly": 0 > -500<br>
 • (SpongeBath_Sink):<br>
 •• Detached from the Inappropriate trait requirement.<br>
 •• "Hygiene": ???? > 400<br>
