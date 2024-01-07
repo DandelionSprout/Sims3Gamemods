@@ -295,8 +295,13 @@ Known file changes:<br>
 •• Every single species in the game, alongside Plumbots with the Office Drone chip: ???? > 750; updateEvenOnFailure: false > true<br>
 •• "TraitWorkaholic": ???? > 1000<br>
 •• "TraitEcoFriendly": 0 > -500<br><br>
+• (SpongeBath_Sink):<br>
+•• Detached from the Inappropriate trait requirement.<br>
+•• "Hygiene": ???? > 400<br>
+•• MermaidDermalHydration: 50 > 400<br>
+•• "BeSinged": 0 > 1000<br>
 
 —————————————————————————<br>
-To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids<br><br>
+To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important)<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
