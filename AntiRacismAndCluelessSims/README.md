@@ -301,6 +301,14 @@ Known file changes:<br>
 •• "TraitImmuneToFire": 0 > 1000<br>
 • (CallFirefighters_Phone) "BeInFirefighterEmergency": 0 > 200<br><br>
 
+• Attempts to reduce how Sims usually just complain about everything instead of actually fixing their problems.<br>
+• (IdleManager_0xd247291646ba4e2e):<br>
+•• "kHighPriorityDistressIdleFrequencyInMinutes": 0 > 300<br>
+•• "kMediumPriorityDistressIdleFrequencyInMinutes": 0 > 300<br>
+•• "kLowPriorityDistressIdleFrequencyInMinutes": 0 > 300<br>
+• (Idles):<br>
+•• TBD<br><br>
+
 • Other:<br>
 • (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br>
 • (WorkInRabbitHole_RabbitHole)<br>
@@ -316,8 +324,9 @@ Known file changes:<br>
 • (SpongeBath_Sink):<br>
 •• Detached from the Inappropriate trait requirement.<br>
 •• "Hygiene": ???? > 400<br>
-•• MermaidDermalHydration: 50 > 400<br>
+•• "MermaidDermalHydration": 50 > 400<br>
 •• "BeSinged": 0 > 1000<br>
+•• "BeFrankenstein": 0 > -1000<br>
 • (Sim+BladderFailure_0x252b38f29d72b0a8) "kDistanceToReact": 10 > 0<br>
 • (BuffExhausted+PassOut_0x2cad2a5b7ecfd7cd) "kDistanceToReact": 10 > 0<br>
 • (SyphonPower_IgameObject):<br>
@@ -332,9 +341,9 @@ Known file changes:<br>
 •• "BeInLaundromat": 0 > -250<br>
 •• "BeInDiveBar": 0 > -250<br>
 •• "BeInCocktailLounge": 0 > -250<br>
-•• "BeInDanceClub": 0 > -250<br>
+•• "BeInDanceClub": 0 > -250<br><br>
 
 —————————————————————————<br>
-To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; possibly allow additional traits to Sponge Bath?; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important); check if SimBots can safely Sponge Bath<br><br>
+To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important)<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
