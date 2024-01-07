@@ -287,6 +287,6 @@ Known file changes:<br>
 •• (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br><br>
 
 —————————————————————————<br>
-To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots again set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?<br><br>
+To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; set increased sleep values for Sleeping Bag and Fairy House; possibly allow additional traits to Sponge Bath?; set Dive Well and presumably Diving Board for Mermaids<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
