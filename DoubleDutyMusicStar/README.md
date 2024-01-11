@@ -23,7 +23,7 @@ Decided name: "Triple Duty Music Star"<br>
 • (EP6_CareerSinger_RecordDemoCD_Theatre):<br>
 •• "TargetData": Theatre > Theatre,MovieSet<br>
 •• "TargetInteractionEndTime": 2:00PM > 11:00PM<br>
-•• "EventEndTime": 9:00PM > 11:00<br>
+•• "EventEndTime": 9:00PM > 11:00PM<br>
 (Remaining: 75%)
 #### Other changes for improved convenience
 • (EP6_ReleaseGenie_TakeUnderground) "TargetData": Mausoleum > Mausoleum,VaultOfAntiquity
