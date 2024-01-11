@@ -8,7 +8,25 @@ Decided name: "Triple Duty Music Star"<br>
 • TBD
 
 ### Opportunities_EP6
-• TBD
+• (EP6_CareerSinger_PerformedForTips), (EP6_CareerSinger_CompletedGig_Park), (EP6_DJTurntable_CompletedMiniShow_Park), (EP6_Passport_Host_Park) "TargetData": BigPark > PigPark,SmallPark,FishingVenue,Graveyard<br>
+• (EP6_CareerSinger_CompletedGig_Bistro), (EP6_DJTurntable_CompletedMiniShow_Bistro), (EP6_Passport_Host_Bistro) "TargetData": Bistro > Bistro,Gym,Library,Pool,Arcade,CoffeeShop<br>
+• (EP6_CareerSinger_CompletedGig_Hangout), (EP6_DJTurntable_CompletedMiniShow_Hangout), (EP6_Passport_Host_PerformanceClub) "TargetData": PerformanceClub > PerformanceClub,Hangout,UnicerityHangout,RebelHangout,NerdShop<br>
+• (EP6_CareerSinger_CompletedGig_Private), (EP6_DJTurntable_CompletedMiniShow_Private), (EP6_Passport_Host_Private) "TargetData": PrivateVenue > PrivateVenue,HorseRanch<br>
+• (EP6_CareerSinger_SingForSupper_Restaurant)<br>
+•• "TargetInteractionStartTime": 2:00PM > 6:00PM<br>
+•• "TargetInteractionEndTime": 00:30AM > 10:00PM<br>
+•• "EventStartTime": 2:00PM > 1:00PM<br>
+•• "EventEndTime": 00:30AM > 9:00PM<br>
+• (EP6_CareerSinger_SingTeamBuilding):<br>
+•• "TargetInteractionEndTime: 5:00PM > 10:00PM<br>
+•• "EventEndTime": 6:00PM > 11:00PM<br>
+• (EP6_CareerSinger_RecordDemoCD_Theatre):<br>
+•• "TargetData": Theatre > Theatre,MovieSet<br>
+•• "TargetInteractionEndTime": 2:00PM > 11:00PM<br>
+•• "EventEndTime": 9:00PM > 11:00<br>
+(Remaining: 75%)
+#### Other changes for improved convenience
+• (EP6_ReleaseGenie_TakeUnderground) "TargetData": Mausoleum > Mausoleum,VaultOfAntiquity
 
 ### Opportunities_BaseGame
 • (GuitarSkill_AmateurContest):<br>
