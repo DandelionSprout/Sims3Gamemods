@@ -73,6 +73,9 @@ Decided name: "Triple Duty Music Star"<br>
 ### Opportunities_EP10
 • (All opportunities) "ChanceToGetOnPhone": 0 > 20 (Trying to fix a strange bug where Island Paradise opportunities are given far, far more often than any other opportunities. It's anyone's guess if the bugfix works.)
 
+### Opportunities_EP11
+• TBD (Look into Laser Rhythm skill opportunities)
+
 ### Skills
 • TBD
 
