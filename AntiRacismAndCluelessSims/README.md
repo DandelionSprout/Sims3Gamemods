@@ -36,7 +36,9 @@ Known file changes:<br>
 
 • On top of all other things NPCs on large lots will just stand still without fixing, is their Hunger motives, necessitating a lot of changes:<br>
 • (EatHere_EatHere; presumably the diner) "Hunger": 200 > 2000<br>
-• (EatOutside_Bistro) "Hunger": 200 > 750<br>
+• (EatOutside_Bistro):
+• "Hunger": 200 > 750<br>
+• "VampireThirst": 0 > -1000
 • (Fridge_Have_Frige) and (Fridge_Have_FridgeModerate):<br>
 •• "Hunger": 75 > 800<br>
 •• "VampireThirst": 75 > 1500<br>
@@ -53,16 +55,23 @@ Known file changes:<br>
 •• "VampireThirst": 200 > 800<br>
 • (SummonFood_Sim; available to genies) "Hunger": 100 > 1000<br>
 • (BuyToEat_VendingMachine) "Hunger": 0 > 400<br>
-• (Buy_FoodFromConcessionsStand_ConcessionsStand": "Hunger": 0 > 200<br>
+• (Buy_FoodFromConcessionsStand_ConcessionsStand":
+•• "Hunger": 0 > 200<br>
+• "VampireThirst": 0 > -500
 • (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br>
 • (EatKelp_Kelp) "Hunger": 10 > 1300<br>
 • (MermaidEat_Fish) "Hunger": 0 > 225<br>
-• (SynthesizerOrder_FutureFoodSynthesizer) "Hunger": 175 > 600<br>
 • (OrderFavouriteFoodOnWaiter_SocialInteractio) "Hunger": 200 > 600<br>
 • (FutureBar_OrderDrinksServo) and (DrinkServoJuice_FutureBarGlass):<br>
 •• "Maintenance": 40 > 1000<br>
 •• "BuffNeedsRepairs": 0 > 300<br>
 •• "BuffEmotionalMalfunction": 0 > 200<br><br>
+• (BuySnack_BaristaBar)
+•• "Hunger": 150 > 600
+•• "VampireThirst": 0 > -500
+• (BuyDrink_BaristaBar)
+•• "Energy": 200 > 300
+•• "Hunger": 0 > 100
 
 • (UseToilet_Toilet) "Bladder": 200 > 1500<br>
 • (PlayWithSprinkler_Sprinkler):<br>
@@ -264,10 +273,6 @@ Known file changes:<br>
 ••• "Social": 0 > 100<br>
 ••• "BuffLonely": 0 > 300<br>
 ••• "BuffDesolate": 0 > 1000<br>
-•• (BlogApp_PhoneSmart)<br>
-••• "Social": 0 > 100<br>
-••• "BuffLonely": 0 > 200<br>
-••• "BuffDesolate": 0 > 800<br>
 •• (SendPictureText_PhoneCell)<br>
 ••• "Social": 20 > 150<br>
 ••• "BuffLonely": 0 > 300<br>
@@ -341,12 +346,6 @@ Known file changes:<br>
 •• Every single species in the game, alongside Plumbots with the Office Drone chip: 0 > 750; updateEvenOnFailure: false > true<br>
 •• "TraitWorkaholic": 0 > 1000<br>
 •• "TraitEnvironmentallyConscious": 0 > -500<br>
-• (SpongeBath_Sink):<br>
-•• Detached from the Inappropriate trait requirement.<br>
-•• "Hygiene": 50 > 400<br>
-•• "MermaidDermalHydration": 50 > 400<br>
-•• "BeSinged": 0 > 1000<br>
-•• "BeFrankenstein": 0 > -1000<br>
 • (Sim+BladderFailure_0x252b38f29d72b0a8) "kDistanceToReact": 10 > 0<br>
 • (BuffExhausted+PassOut_0x2cad2a5b7ecfd7cd) "kDistanceToReact": 10 > 0<br>
 • (SyphonPower_IgameObject):<br>
@@ -362,8 +361,15 @@ Known file changes:<br>
 •• "BeInDiveBar": 0 > -250<br>
 •• "BeInCocktailLounge": 0 > -250<br>
 •• "BeInDanceClub": 0 > -250<br>
-• (GetSprayTanInRabbitHole) "OccultTypes": ???? > 0x74C (Extends spa tans to all species who can get booth tans)<br><br>
-—————————<br>
-To-Do: Test if overly fast bed sleeps are caused by this mod.<br><br>
+• (GetSprayTanInRabbitHole) "OccultTypes": ???? > 0x74C (Extends spa tans to all species who can get booth tans)<br>
+• (MopPuddle_Terrain) and (MopPuddles_Sim):<br>
+•• "BuffFilthySurroundings": 0 > 300<br>
+•• "BuffVileSurroundings": 0 > 600<br><br>
 
-Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone; Unlock PlayVideoPoker_Computer
+—————————<br>
+To-Do: Apply "TraitSinged" instead of "BeSinged" or something.<br><br>
+
+Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone; Unlock PlayVideoPoker_Computer<br>
+Skipped due to not working:
+• Sponge bathing for all traits (Sims kept preferring it to showers and baths no matter what values were used).
+• "BlogApp_PhoneSmart" (Under specific circumstances, the player would be asked to write a post on an NPC's blog).
