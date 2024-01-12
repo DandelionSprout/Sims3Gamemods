@@ -133,10 +133,9 @@ Known file changes:<br>
 • Repairing objects that can't possibly lead to electrocution.<br>
 •• (RepairSink_Sink), (RepairToilet_Toilet), (RepairShower_Shower), and (Repair_AllInOneBathroom) Every single species in the game, unless listed below: 0 > 300<br>
 •• "ServoBotHandiBot": 0 or 200 > 500<br>
-•• "CleanerChip": 0 > 300<br>
-•• "SentienceChip": 0 > 300<br>
-•• "AbilityToLearnChip": 0 > 300<br>
-•• "EfficientChip": 0 > 200<br>
+•• "ServoBotCleaner": 0 > 300<br>
+•• "ServoBotSentience": 0 > 300<br>
+•• "ServoBotAbilityToLearn": 0 > 300<br>
 • (FairyRepair_IGameObject): "BeFairy": 0 > 900<br>
 • (ServoBotRepair_IGameObject): "ServoBot": 15 > 500<br>
 • (AlienRepair_IGameObject): "BeAlien": 0 > 500<br><br>
@@ -144,10 +143,9 @@ Known file changes:<br>
 • Repairing quite a large number of objects that can in fact lead to electrocution.<br>
 • (Repair_FortuneCookieMaker), (Repair_NectarMaker), (Repair_PetFeedingStation), (Repair_RoutineStation), (Repair_SleepPodFuture), (Repair_TattooChairAdvanced), (Repair_TattoChair), (Repair_Teleporter), (Repair_TimeMachine), (Repair_TrashCompactor), (Repair_WashingMachine), (RepairBrainEnhanceingMachine_BrainEnhancingMachine), (RepairComputer_Computer), (RepairComputer_HoloComputer), (RepairDishwasher_Dishwasher), (RepairEDS_ElectroDanceSphere), (RepairFrankenstein_Sim), (RepairHelm_Helm), (RepairJukebox_Jukebox), (RepairKaraokeMachine_KaraokeMachine), (RepairSpeaker_WallMountSpeaker), (RepairStation_ScienceResearchStation), (RepairStereo_Stereo), (RepairTV_TV), and (RepairVendingMachine_VendingMachine)<br>
 •• "ServoBotHandiBot": 0 or 200 > 500<br>
-•• "CleanerChip": 0 > 300<br>
-•• "SentienceChip": 0 > 300<br>
-•• "AbilityToLearnChip": 0 > 300<br>
-•• "EfficientChip": 0 > 200<br>
+•• "ServoBotCleaner": 0 > 300<br>
+•• "ServoBotSentience": 0 > 300<br>
+•• "ServoBotAbilityToLearn": 0 > 300<br>
 •• "BeFrankenstein": 0 > 750<br>
 •• "BeMummy": 0 > 300<br>
 •• "BeGhost": 0 > 200<br><br>
@@ -216,20 +214,18 @@ Known file changes:<br>
 • Mostly the same principles apply as for object repairs.<br>
 •• (UpgradeAutoFill_JuiceKeg), (UpgradeAutoFill_WaterTrough), (UpgradeMakeAutoWater_Sprinkler) and (UpgradeExtinguisher_Sim) Every single species in the game, unless listed below: 0 > 300<br>
 ••• "ServoBotHandiBot": 0 or 200 > 500<br>
-••• "CleanerChip": 0 > 300<br>
-••• "SentienceChip": 0 > 300<br>
-••• "AbilityToLearnChip": 0 > 300<br>
-••• "EfficientChip": 0 > 200<br>
+••• "ServoBotCleaner": 0 > 300<br>
+••• "ServoBotSentience": 0 > 300<br>
+••• "ServoBotAbilityToLearn": 0 > 300<br>
 •• Additional for (UpgradeMakeAutoWater_Sprinker): "BeInFirefighterEmergency": 0 > 100<br>
 •• (MagicallyUpgrade_GameObject) "BeWitch": 0 > 1000<br>
 •• (UpgradeCosmicBowling_BowlingLane), (UpgradeLookGoodMirrors_StylingMirrors), (UpgradeUnbreakable_ScienceResearchStation), (UpgradePowerCleanse_SonicShower), (UpgradeFireAlarm_FireStationAlarm), (UpgradeMakeUnbreakable_PetFeedingStation), (UpgradeAlwaysGoodFortune_FortuneCookieMaker), (UpgradeNeverLoses_Dartboard), (UpgradeFasterCooking_Microwave), (UpgradeToLevelTwo_BrainEnhancingMachineCollege), (UpgradeToLevelThree_BrainEnhancingMachineCollege)<br>
 ••• "TraitHandy": 0 > 600<br>
 ••• "SkillHandiness": 0 > 200<br>
 ••• "ServoBotHandiBot": 0 or 200 > 500<br>
-••• "CleanerChip": 0 > 300<br>
-••• "SentienceChip": 0 > 300<br>
-••• "AbilityToLearnChip": 0 > 300<br>
-••• "EfficientChip": 0 > 200<br>
+••• "ServoBotCleaner": 0 > 300<br>
+••• "ServoBotSentience": 0 > 300<br>
+••• "ServoBotAbilityToLearn": 0 > 300<br>
 ••• "BeFrankenstein": 0 > 750<br>
 ••• "BeMummy": 0 > 300<br>
 ••• "BeGhost": 0 > 200<br>
@@ -292,13 +288,11 @@ Known file changes:<br>
 •• "SkillSpellcasting": 0 > 600<br>
 •• "BeGhost": 0 > 1000<br>
 •• "TraitDaredevil": 0 > 500<br>
-•• "TraitImmuneToFire": 0 > 1000<br>
 •• "????" ???? > ????<br>
 • (Extinguish_Fire):<br>
 •• "BeFrankenstein": 0 > 1000<br>
 •• "BeGhost": 0 > 1000<br>
 •• "TraitDaredevil": 0 > 500<br>
-•• "TraitImmuneToFire": 0 > 1000<br>
 • (CallFirefighters_Phone) "BeInFirefighterEmergency": 0 > 200<br><br>
 
 • Attempts to reduce how Sims usually just complain about everything instead of actually fixing their problems.<br>
@@ -344,6 +338,6 @@ Known file changes:<br>
 •• "BeInDanceClub": 0 > -250<br><br>
 
 —————————————————————————<br>
-To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again; triple-check the codenames of traits, and hidden traits, and trait chips (Extremely important)<br><br>
+To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
