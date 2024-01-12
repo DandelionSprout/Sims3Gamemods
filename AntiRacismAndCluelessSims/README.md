@@ -177,7 +177,7 @@ Known file changes:<br>
 • Showers<br>
 •• (TakeShower_Shower):<br>
 ••• "Hygiene": ???? > 800<br>
-••• "TraitSinged": ???? > 1500<br>
+••• "BuffSinged": ???? > 1500<br>
 ••• "MermaidDermalDehydration: ???? > 800<br>
 ••• "BuffMermaidFlakey": 0 > 900<br>
 ••• "BuffMermaidDehydrated": 0 > 2000<br>
@@ -186,7 +186,7 @@ Known file changes:<br>
 ••• "BeFrankenstein": 0 > -1000<br>
 •• (TakeShower_ShowerBasic):<br>
 ••• "Hygiene": ???? > 500<br>
-••• "TraitSinged": ???? > 1500<br>
+••• "BuffSinged": ???? > 1500<br>
 ••• "MermaidDermalDehydration: ???? > 600<br>
 ••• "BuffMermaidFlakey": 0 > 900<br>
 ••• "BuffMermaidDehydrated": 0 > 2000<br>
@@ -195,7 +195,7 @@ Known file changes:<br>
 ••• "BeFrankenstein": 0 > -1000<br>
 •• (TakeShower_ShowerLoft):<br>
 ••• "Hygiene": ???? > 600<br>
-••• "TraitSinged": ???? > 1500<br>
+••• "BuffSinged": ???? > 1500<br>
 ••• "MermaidDermalDehydration: ???? > 300<br>
 ••• "BuffMermaidFlakey": 0 > 900<br>
 ••• "BuffMermaidDehydrated": 0 > 2000<br>
@@ -204,7 +204,7 @@ Known file changes:<br>
 ••• "BeFrankenstein": 0 > -1000<br>
 •• (TakeShower_ShowerTub):<br>
 ••• "Hygiene": ???? > 800<br>
-••• "TraitSinged": ???? > 1500<br>
+••• "BuffSinged": ???? > 1500<br>
 ••• "MermaidDermalDehydration: ???? > 800<br>
 ••• "BuffMermaidFlakey": 0 > 900<br>
 ••• "BuffMermaidDehydrated": 0 > 2000<br>
