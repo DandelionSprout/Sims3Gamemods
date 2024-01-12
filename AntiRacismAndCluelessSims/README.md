@@ -38,7 +38,7 @@ Known file changes:<br>
 • (EatHere_EatHere; presumably the diner) "Hunger": 200 > 2000<br>
 • (EatOutside_Bistro):
 • "Hunger": 200 > 750<br>
-• "VampireThirst": 0 > -1000
+• "BeVampire": 0 > -1000
 • (Fridge_Have_Frige) and (Fridge_Have_FridgeModerate):<br>
 •• "Hunger": 75 > 800<br>
 •• "VampireThirst": 75 > 1500<br>
@@ -55,9 +55,9 @@ Known file changes:<br>
 •• "VampireThirst": 200 > 800<br>
 • (SummonFood_Sim; available to genies) "Hunger": 100 > 1000<br>
 • (BuyToEat_VendingMachine) "Hunger": 0 > 400<br>
-• (Buy_FoodFromConcessionsStand_ConcessionsStand":
+• (Buy_FoodFromConcessionsStand_ConcessionsStand":<br>
 •• "Hunger": 0 > 200<br>
-• "VampireThirst": 0 > -500
+•• "BeVampire": 0 > -500<br>
 • (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br>
 • (EatKelp_Kelp) "Hunger": 10 > 1300<br>
 • (MermaidEat_Fish) "Hunger": 0 > 225<br>
@@ -65,13 +65,13 @@ Known file changes:<br>
 • (FutureBar_OrderDrinksServo) and (DrinkServoJuice_FutureBarGlass):<br>
 •• "Maintenance": 40 > 1000<br>
 •• "BuffNeedsRepairs": 0 > 300<br>
-•• "BuffEmotionalMalfunction": 0 > 200<br><br>
-• (BuySnack_BaristaBar)
-•• "Hunger": 150 > 600
-•• "VampireThirst": 0 > -500
-• (BuyDrink_BaristaBar)
-•• "Energy": 200 > 300
-•• "Hunger": 0 > 100
+•• "BuffEmotionalMalfunction": 0 > 200<br>
+• (BuySnack_BaristaBar)<br>
+•• "Hunger": 150 > 600<br>
+•• "BeVampire": 0 > -500<br>
+• (BuyDrink_BaristaBar)<br>
+•• "Energy": 200 > 300<br>
+•• "Hunger": 0 > 100<br><br>
 
 • (UseToilet_Toilet) "Bladder": 200 > 1500<br>
 • (PlayWithSprinkler_Sprinkler):<br>
@@ -125,7 +125,7 @@ Known file changes:<br>
 •• "BuffExhausted": 0 > 900<br>
 •• "BuffDrained": 0 > 900<br>
 •• "TraitLovesTheOutdoors": 0 > 300<br>
-• Vampire altars:<br>
+• (Sleep_Altar):<br>
 •• "BuffLethargic": 0 > 1500<br>
 •• "BuffDrained": 0 > 1600<br>
 
@@ -180,6 +180,7 @@ Known file changes:<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
 •• "BuffMermaidFlakey": 0 > 900<br>
 •• "BuffMermaidDehydrated": 0 > 2000<br><br>
+•• "BuffFatigued" (except DiveWell): 0 > -1000
 
 • Showers<br>
 •• (TakeShower_Shower):<br>
@@ -312,10 +313,12 @@ Known file changes:<br>
 •• "TraitDaredevil": 0 > 500<br>
 •• "TraitBrave": 0 > 150<br>
 •• "TraitGood": 30 > 100<br>
+•• "BuffBumbleleaf": 0 > 200<br>
 • (Extinguish_Fire):<br>
 •• "BeFrankenstein": 0 > 1000<br>
 •• "BeGhost": 0 > 1000<br>
 •• "TraitDaredevil": 0 > 500<br>
+•• "BuffBumbleleaf": 0 > 400<br>
 • (CallFirefighters_Phone) "BeInFirefighterEmergency": 0 > 200<br><br>
 
 • Attempts to reduce how Sims usually just complain about everything instead of actually fixing their problems.<br>
@@ -367,7 +370,7 @@ Known file changes:<br>
 •• "BuffVileSurroundings": 0 > 600<br><br>
 
 —————————<br>
-To-Do: Apply "TraitSinged" instead of "BeSinged" or something.<br><br>
+To-Do: Apply "TraitSinged" instead of "BeSinged" or something; Add correct "Actual"s for all sleep items.<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone; Unlock PlayVideoPoker_Computer<br>
 Skipped due to not working:
