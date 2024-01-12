@@ -361,7 +361,9 @@ Known file changes:<br>
 •• "BeInLaundromat": 0 > -250<br>
 •• "BeInDiveBar": 0 > -250<br>
 •• "BeInCocktailLounge": 0 > -250<br>
-•• "BeInDanceClub": 0 > -250<br><br>
-• (GetSprayTanInRabbitHole) "OccultTypes": ???? > 0x74C (Extends spa tans to all species who can get booth tans)
+•• "BeInDanceClub": 0 > -250<br>
+• (GetSprayTanInRabbitHole) "OccultTypes": ???? > 0x74C (Extends spa tans to all species who can get booth tans)<br><br>
+—————————<br>
+To-Do: Test if overly fast bed sleeps are caused by this mod.<br><br>
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone; Unlock PlayVideoPoker_Computer
