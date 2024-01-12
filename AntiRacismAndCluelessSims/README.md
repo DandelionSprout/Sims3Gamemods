@@ -31,7 +31,7 @@ Known file changes:<br>
 •• "MermaidDermalDehydration": 0 > -500<br>
 •• "BuffMermaidFlakey": 0 > -900<br>
 •• "BuffMermaidDehydrated": 0 > -2000<br>
-•• "BePlantSim": 0 > 190<br>
+•• "BePlantSim": 0 > -190<br>
 •• "BeFrankenstein": 0 > 1000<br><br>
 
 • On top of all other things NPCs on large lots will just stand still without fixing, is their Hunger motives, necessitating a lot of changes:<br>
