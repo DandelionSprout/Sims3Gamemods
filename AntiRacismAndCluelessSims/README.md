@@ -362,5 +362,6 @@ Known file changes:<br>
 •• "BeInDiveBar": 0 > -250<br>
 •• "BeInCocktailLounge": 0 > -250<br>
 •• "BeInDanceClub": 0 > -250<br><br>
+• (GetSprayTanInRabbitHole) "OccultTypes": ???? > 0x74C (Extends spa tans to all species who can get booth tans)
 
 Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone; Unlock PlayVideoPoker_Computer
