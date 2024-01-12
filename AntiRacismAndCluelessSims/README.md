@@ -11,22 +11,22 @@ Known file changes:<br>
 • Sim+BladderFailure_0x252b38f2929d72b0a8 and BuffExhausted+PassOut_0x3cad2a5b7ecfd7cd have had "kDistanceToReact" changed from 10 to 0, because Sims reacting to them would make them run out of rabbitholes (Confirmed for the Vault of Antiquity) just to be scared at it, and then lose track of everything they were doing and later proceed hours later to <i>also</i> wet themselves or faint.<br>
 • Some 3 dozen water-related interactions have had their weighting values massively increased or decreased to massively encourage Mermaid Sims and to some extent PlantSims to do water things, while massively discouraging SimBots from using most water things even without being Hydrophobic.<br><br>
 • All 12 bathtub types' regular bath interactions have had additional and generally very specific values added to them, on top of any that they may have had in the game normally:<br>
-•• "MermaidDermalDehydration": 0 > 900<br>
+•• "MermaidDermalDehydration": 150-185 > 900<br>
 •• "BuffMermaidFlakey": 0 > 900 (Presuming these kinds of values stack)<br>
 •• "BuffMermaidDehydrated": 0 > 2000<br>
-•• "BePlantSim": ???? > 130<br>
+•• "BePlantSim": 0 or 40 > 130<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
 •• "BeFrankenstein" (i.e. SimBot): 0 > -1000<br>
-•• "Hygiene": ???? > 450<br><br>
+•• "Hygiene": 150-165 > 450<br><br>
 • For All-in-One Bathrooms (UseAllInOneBathroom_AllInOneBathroom), all of which in the 3 EP's models are treated as the same in the files:<br>
-•• "Bladder": ???? > 1500<br>
-•• "Hygiene": ???? > 1500<br>
-•• "BuffSinged": ???? > 1500<br>
-•• "MermaidDermalDehydration": ???? > 400<br>
+•• "Bladder": 350 > 1500<br>
+•• "Hygiene": 200 > 1500<br>
+•• "BuffSinged": 0 > 1500<br>
+•• "MermaidDermalDehydration": 200 > 400<br>
 •• "BuffMermaidFlakey": 0 > 500<br>
 •• "BuffMermaidDehydrated": 0 > 1500<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
-•• "BeFrankenstein": ???? > -1000<br><br>
+•• "BeFrankenstein": 0 > -1000<br><br>
 • (ReactToPrecipitation_PutUpUmbrella_Sim)<br>
 •• "MermaidDermalDehydration": 0 > -500<br>
 •• "BuffMermaidFlakey": 0 > -900<br>
@@ -35,68 +35,68 @@ Known file changes:<br>
 •• "BeFrankenstein": 0 > 1000<br><br>
 
 • On top of all other things NPCs on large lots will just stand still without fixing, is their Hunger motives, necessitating a lot of changes:<br>
-• (EatHere_EatHere; presumably the diner) "Hunger": ???? > 2000<br>
-• (EatOutside_Bistro) "Hunger": ???? > 750<br>
+• (EatHere_EatHere; presumably the diner) "Hunger": 200 > 2000<br>
+• (EatOutside_Bistro) "Hunger": 200 > 750<br>
 • (Fridge_Have_Frige) and (Fridge_Have_FridgeModerate):<br>
-•• "Hunger": ???? > 800<br>
-•• "VampireThirst": ???? > 1500<br>
+•• "Hunger": 75 > 800<br>
+•• "VampireThirst": 75 > 1500<br>
 • (HaveJuiceDefinition_Fridge):<br>
-•• "Hunger": ???? > 150<br>
-•• "VampireThirst": ???? > 2000<br>
+•• "Hunger": 0 > 150<br>
+•• "VampireThirst": 0 > 2000<br>
 • (HaveSnack_MiniFridge; i.e. the University Life fridge):<br>
-•• "Hunger": ???? > 600<br>
-•• "VampireThirst": ???? > 2000<br>
-• (GrabFood_BuffetTable) "Hunger": ???? > 900<br>
-• (OrderFood_BarProfessional) "Hunger: ???? > 1500<br>
+•• "Hunger": 100 > 600<br>
+•• "VampireThirst": 0 > 2000<br>
+• (GrabFood_BuffetTable) "Hunger": 200 > 900<br>
+• (OrderFood_BarProfessional) "Hunger": 200 > 1500<br>
 • (OrderFood_FoodTruck):<br>
-•• "Hunger": ???? > 700<br>
-•• "VampireThirst": ???? > 800<br>
-• (SummonFood_Sim; available to genies) "Hunger": ???? > 1000<br>
+•• "Hunger": 200 > 700<br>
+•• "VampireThirst": 200 > 800<br>
+• (SummonFood_Sim; available to genies) "Hunger": 100 > 1000<br>
 • (BuyToEat_VendingMachine) "Hunger": 0 > 400<br>
-• (Buy_FoodFromConcessionsStand_ConcessionsStand": "Hunger: 0 > 200<br>
-• (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br><br>
-• (EatKelp_Kelp) "Hunger": ???? > 1300<br>
-• (MermaidEat_Fish) "Hunger": ???? > 225<br>
-• (SynthesizerOrder_FoodFoodSynthesizer) "Hunger": ???? > 600<br>
-• (OrderFavouriteFoodOnWaiter_SocialInteractio) "Hunger": ???? > 600<br>
+• (Buy_FoodFromConcessionsStand_ConcessionsStand": "Hunger": 0 > 200<br>
+• (BuyFoodWithConcessionsStand_BuyWithRegiste; likely only applies to World Adventures) "Hunger": 0 > 200<br>
+• (EatKelp_Kelp) "Hunger": 10 > 1300<br>
+• (MermaidEat_Fish) "Hunger": 0 > 225<br>
+• (SynthesizerOrder_FutureFoodSynthesizer) "Hunger": 175 > 600<br>
+• (OrderFavouriteFoodOnWaiter_SocialInteractio) "Hunger": 200 > 600<br>
 • (FutureBar_OrderDrinksServo) and (DrinkServoJuice_FutureBarGlass):<br>
 •• "Maintenance": 40 > 1000<br>
 •• "BuffNeedsRepairs": 0 > 300<br>
 •• "BuffEmotionalMalfunction": 0 > 200<br><br>
 
-• (UseToilet_Toilet) "Bladder": ???? > 1500<br>
+• (UseToilet_Toilet) "Bladder": 200 > 1500<br>
 • (PlayWithSprinkler_Sprinkler):<br>
-•• "BePlantSim": ???? > 110<br>
-•• "MermaidDermalDehydration": ???? > 300<br>
+•• "BePlantSim": 0 > 110<br>
+•• "MermaidDermalDehydration": 120 > 300<br>
 •• "BuffMermaidFlakey": 0 > 900<br>
 •• "BuffMermaidDehydrated": 0 > 2000<br>
 • (Slide_SlippySlide):<br>
-•• "MermaidDermalDehydration": ???? > 150<br>
+•• "MermaidDermalDehydration": 50 > 150<br>
 •• "BuffMermaidFlakey": 0 > 800<br>
 •• "BuffMermaidDehydrated": 0 > 1500<br>
-•• "BePlantSim": ???? > 80<br>
+•• "BePlantSim": 0 > 80<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
-•• "BeFrankenstein": ???? > -1000<br><br>
+•• "BeFrankenstein": 0 > -1000<br><br>
 
 • Sims also often faint apropos of nothing, and generally don't do anything about it before they, well, faint.<br>
 • (BedSleep_Bed):<br>
-•• "Energy": ???? > 800<br>
+•• "Energy": 100 > 800<br>
 •• "BuffTired": 0 > 1500<br>
 •• "BuffLethargic": 0 > 1500<br>
 •• "BuffExhausted": 0 > 1600<br>
 •• "BuffDrained": 0 > 1600<br>
 • (BedNap_Bed):<br>
-•• "Energy": ???? > 400<br>
-•• "BuffExhausted" ???? > 800<br>
-•• "BuffDrained": ???? > 800<br>
+•• "Energy": 100 > 400<br>
+•• "BuffExhausted": 0 > 800<br>
+•• "BuffDrained": 0 > 800<br>
 • (DreamPodSleep_BedDreamPod)<br>
-•• "Energy": ???? > 500<br>
+•• "Energy": 100 > 500<br>
 •• "BuffTired": 0 > 1500<br>
 •• "BuffLethargic": 0 > 1500<br>
 •• "BuffExhausted": 0 > 1600<br>
 •• "BuffDrained": 0 > 1600<br>
 • (Nap_ChairLounge), (Nap_IHasSeatingGroup), and (Nap_RockingChair):<br>
-•• "Energy": ???? > 300<br>
+•• "Energy": 15 or 40 > 300<br>
 •• "BuffTired": 0 > 1100<br>
 •• "BuffLethargic": 0 > 1100<br>
 •• "BuffExhausted": 0 > 1200<br>
@@ -152,62 +152,80 @@ Known file changes:<br>
 
 • Remarkably, SimBots can in fact swim in at least swimming pools without shorting out, although their Energy motive will plummet. Such situations are listed here.<br>
 • (SwimAround_Pool)<br>
-•• "MermaidDermalDehydration": ???? > 400<br>
-•• "BePlantSim": ???? > 200<br>
+•• "MermaidDermalDehydration": 50 > 400<br>
+•• "BePlantSim": 0 or 40 > 200<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
 •• "BuffMermaidFlakey": 0 > 900<br>
 •• "BuffMermaidDehydrated": 0 > 2000<br>
 • (SwimAroundInOcean_Sim)<br>
-•• "MermaidDermalDehydration": ???? > 300<br>
-•• "BePlantSim": ???? > 150<br>
+•• "MermaidDermalDehydration": 50 > 300<br>
+•• "BePlantSim": 400 > 150<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
 •• "BuffMermaidFlakey": 0 > 900<br>
 •• "BuffMermaidDehydrated": 0 > 2000<br>
 •• "BuffDivingDeficiency": 0 > 200<br>
 •• "BuffAdaptingToLand": 0 > 400<br>
 • (Slide_WaterSlide), (Dive_DivingBoard), and (Dive_DiveWell)<br>
-•• "MermaidDermalDehydration": ???? or 40 > 400<br>
-•• "BePlantSim": ???? > 80<br>
+•• "MermaidDermalDehydration": 0 or 40 > 400<br>
+•• "BePlantSim": 0 > 80<br>
 •• "BuffPlantSimDehydrated": 0 > 300<br>
 •• "BuffMermaidFlakey": 0 > 900<br>
 •• "BuffMermaidDehydrated": 0 > 2000<br><br>
 
 • Showers<br>
 •• (TakeShower_Shower):<br>
-••• "Hygiene": ???? > 800<br>
-••• "BuffSinged": ???? > 1500<br>
-••• "MermaidDermalDehydration: ???? > 800<br>
+••• "Hygiene": 200 > 800<br>
+••• "BuffSinged": 0 > 1500<br>
+••• "MermaidDermalDehydration: 200 > 800<br>
 ••• "BuffMermaidFlakey": 0 > 900<br>
 ••• "BuffMermaidDehydrated": 0 > 2000<br>
-••• "BePlantSim": ???? > 400<br>
+••• "BePlantSim": 40 > 400<br>
 ••• "BuffPlantSimDehydrated": 0 > 300<br>
 ••• "BeFrankenstein": 0 > -1000<br>
 •• (TakeShower_ShowerBasic):<br>
-••• "Hygiene": ???? > 500<br>
-••• "BuffSinged": ???? > 1500<br>
-••• "MermaidDermalDehydration: ???? > 600<br>
+••• "Hygiene": 190 > 500<br>
+••• "BuffSinged": 0 > 1500<br>
+••• "MermaidDermalDehydration: 190 > 600<br>
 ••• "BuffMermaidFlakey": 0 > 900<br>
 ••• "BuffMermaidDehydrated": 0 > 2000<br>
-••• "BePlantSim": ???? > 200<br>
+••• "BePlantSim": 40 > 200<br>
 ••• "BuffPlantSimDehydrated": 0 > 300<br>
 ••• "BeFrankenstein": 0 > -1000<br>
 •• (TakeShower_ShowerLoft):<br>
-••• "Hygiene": ???? > 600<br>
-••• "BuffSinged": ???? > 1500<br>
-••• "MermaidDermalDehydration: ???? > 300<br>
+••• "Hygiene": 220 > 600<br>
+••• "BuffSinged": 0 > 1500<br>
+••• "MermaidDermalDehydration: 220 > 300<br>
 ••• "BuffMermaidFlakey": 0 > 900<br>
 ••• "BuffMermaidDehydrated": 0 > 2000<br>
-••• "BePlantSim": ???? > 150<br>
+••• "BePlantSim": 0 > 150<br>
 ••• "BuffPlantSimDehydrated": 0 > 300<br>
 ••• "BeFrankenstein": 0 > -1000<br>
 •• (TakeShower_ShowerTub):<br>
-••• "Hygiene": ???? > 800<br>
-••• "BuffSinged": ???? > 1500<br>
-••• "MermaidDermalDehydration: ???? > 800<br>
+••• "Hygiene": 220 > 800<br>
+••• "BuffSinged": 0 > 1500<br>
+••• "MermaidDermalDehydration: 220 > 800<br>
 ••• "BuffMermaidFlakey": 0 > 900<br>
 ••• "BuffMermaidDehydrated": 0 > 2000<br>
-••• "BePlantSim": ???? > 150<br>
+••• "BePlantSim": 40 > 150<br>
 ••• "BuffPlantSimDehydrated": 0 > 300<br>
+••• "BeFrankenstein": 0 > -1000<br>
+•• (TakeShower_BathtubShowerModern):<br>
+••• "Hygiene": > 600<br>
+••• "BuffSinged": 0 > 1500<br>
+••• "MermaidDermalDehydration: > 700<br>
+••• "BuffMermaidFlakey": 0 > 900<br>
+••• "BuffMermaidDehydrated": 0 > 2000<br>
+••• "BePlantSim": > 150<br>
+••• "BuffPlantSimDehydrated": 0 > 300<br>
+••• "BeFrankenstein": 0 > -1000<br>
+•• (TakeShower_BathtubShowerSeasonChic):<br>
+••• "Hygiene": 220 > 600<br>
+••• "BuffSinged": 0 > 1500<br>
+••• "MermaidDermalDehydration: 220 > 600<br>
+••• "BuffMermaidFlakey": 0 > 900<br>
+••• "BuffMermaidDehydrated": 0 > 2000<br>
+••• "BePlantSim": 40 > 150<br>
+••• "BuffPlantSimDehydrated": 0 > 30<br>
 ••• "BeFrankenstein": 0 > -1000<br><br>
 
 • Object upgrades, provided that only 1 upgrade is possible for a specific object<br>
@@ -235,60 +253,60 @@ Known file changes:<br>
 
 • Social actions to prevent Social motice collapses<br>
 •• (CallChat_Phone)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 5 > 100<br>
+••• "BuffLonely": 0 > 500<br>
+••• "BuffDesolate": 0 > 1500<br>
 •• (SendChatText_PhoneCell)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 20 > 100<br>
+••• "BuffLonely": 0 > 500<br>
+••• "BuffDesolate": 0 > 1500<br>
 •• (CallGeneric_Phone)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 0 > 100<br>
+••• "BuffLonely": 0 > 300<br>
+••• "BuffDesolate": 0 > 1000<br>
 •• (BlogApp_PhoneSmart)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 0 > 100<br>
+••• "BuffLonely": 0 > 200<br>
+••• "BuffDesolate": 0 > 800<br>
 •• (SendPictureText_PhoneCell)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 20 > 150<br>
+••• "BuffLonely": 0 > 300<br>
+••• "BuffDesolate": 0 > 1000<br>
 •• (ChatRandom_Computer) and (ChatRandom_HoloComputer)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 50 > 250<br>
+••• "BuffLonely": 0 > 70<br>
+••• "BuffDesolate": 0 > 1500<br>
 •• (Chat_Sim)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "BuffLonely": 0 > 300<br>
+••• "BuffDesolate": 0 > 800<br>
 •• (GroupChat_Sim) and (GroupChatB_Sim)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 25 > 250<br>
+••• "BuffLonely": 0 > 500<br>
+••• "BuffDesolate": 0 > 1200<br>
 •• (SeatedChat_Sim)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 50 > 250<br>
+••• "BuffLonely": 0 > 500<br>
+••• "BuffDesolate": 0 > 1200<br>
 •• (Chat_MagicMirror)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br>
+••• "Social": 50 > 250<br>
+••• "BuffLonely": 0 > 400<br>
+••• "BuffDesolate": 0 > 1000<br>
 •• (ChatWithBonehilda)<br>
-••• "Social": ???? > ????<br>
-••• "BuffLonely": 0 > ????<br>
-••• "BuffDesolate": 0 > ????<br><br>
+••• "Social": 50 > 250<br>
+••• "BuffLonely": 0 > 400<br>
+••• "BuffDesolate": 0 > 1000<br><br>
 
 • Causes the Sims to no longer run towards a fire and scream for 2 hours, unless it is to actively try to actually extinguish the fire.<br>
-• (ReactToFire_IGameObject) ???? > F<br>
+• (ReactToFire_IGameObject) C,T,Y,A,E,CH,AH,EH,CC,AC,EC,CD,AD,ED,CL,AL,EL,AB,AR > F<br>
 • (CastIceBlastTerrain_Fire:<br>
-•• "ExtinguishSelf": ???? > 1200<br>
+•• "ExtinguishSelf": 200 > 1200<br>
 •• "BeInFirefighterEmergency": 200 > 300<br>
 •• "BeScenarioFirefighter": 200 > 300<br>
 •• "SkillSpellcasting": 0 > 600<br>
 •• "BeGhost": 0 > 1000<br>
 •• "TraitDaredevil": 0 > 500<br>
-•• "????" ???? > ????<br>
+•• "TraitBrave": 0 > 150<br>
+•• "TraitGood": 30 > 100<br>
 • (Extinguish_Fire):<br>
 •• "BeFrankenstein": 0 > 1000<br>
 •• "BeGhost": 0 > 1000<br>
@@ -297,27 +315,35 @@ Known file changes:<br>
 
 • Attempts to reduce how Sims usually just complain about everything instead of actually fixing their problems.<br>
 • (IdleManager_0xd247291646ba4e2e):<br>
-•• "kHighPriorityDistressIdleFrequencyInMinutes": 0 > 300<br>
-•• "kMediumPriorityDistressIdleFrequencyInMinutes": 0 > 300<br>
-•• "kLowPriorityDistressIdleFrequencyInMinutes": 0 > 300<br>
+•• "kHighPriorityDistressIdleFrequencyInMinutes": 45 > 300<br>
+•• "kMediumPriorityDistressIdleFrequencyInMinutes": 60 > 300<br>
+•• "kLowPriorityDistressIdleFrequencyInMinutes": 90 > 300<br>
 • (Idles):<br>
-•• TBD<br><br>
+• (MotiveFailBladder) "AgesSpeciesAllowed": C,T,Y,A,E > F<br>
+• (MotiveFailHunger) "AgesSpeciesAllowed": C,T,Y,A,E > F<br>
+• (HasToPee) "AgesSpeciesAllowed": C,T,Y,A,E > F<br>
+• (Hungry) "AgesSpeciesAllowed": C,T,Y,A,E > F<br>
+• (ReallyHasToPee) "AgesSpeciesAllowed": C,T,Y,A,E > F<br>
+• (VeryHungry) "AgesSpeciesAllowed": C,T,Y,A,E > F<br>
+• (FlightOfFelicity) "AnimationProbability": 200 > 100<br>
+• (a_fairy_idle_2_x) "AnimationProbability": 200 > 5<br>
+• (a_fairy_idle_3_x) "AnimationProbability": 200 > 5<br><br>
 
 • Other:<br>
 • (OccultVampire_0x36330d971d54d54d) "PulseRadius": 3 > 0 (The hope is that this will prevent the "Hunted" moodlet)<br>
 • (WorkInRabbitHole_RabbitHole)<br>
-•• Every single species in the game, alongside Plumbots with the Office Drone chip: ???? > 1500; updateEvenOnFailure: false > true<br>
-•• "TraitWorkaholic": ???? > 1000<br>
-•• "TraitAmbitious": ???? > 300<br>
-•• "TraitSchmoozer": ???? > 300<br>
-•• "Work": ???? > 500<br>
+•• Every single species in the game, alongside Plumbots with the Office Drone chip: 0 > 1500; updateEvenOnFailure: false > true<br>
+•• "TraitWorkaholic": 0 > 1000<br>
+•• "TraitAmbitious": 0 > 300<br>
+•• "TraitSchmoozer": 0 > 300<br>
+•• "Work": 0 > 500<br>
 • (GetInCarpool_CarNpc):<br>
-•• Every single species in the game, alongside Plumbots with the Office Drone chip: ???? > 750; updateEvenOnFailure: false > true<br>
-•• "TraitWorkaholic": ???? > 1000<br>
+•• Every single species in the game, alongside Plumbots with the Office Drone chip: 0 > 750; updateEvenOnFailure: false > true<br>
+•• "TraitWorkaholic": 0 > 1000<br>
 •• "TraitEnvironmentallyConscious": 0 > -500<br>
 • (SpongeBath_Sink):<br>
 •• Detached from the Inappropriate trait requirement.<br>
-•• "Hygiene": ???? > 400<br>
+•• "Hygiene": 50 > 400<br>
 •• "MermaidDermalHydration": 50 > 400<br>
 •• "BeSinged": 0 > 1000<br>
 •• "BeFrankenstein": 0 > -1000<br>
@@ -337,7 +363,4 @@ Known file changes:<br>
 •• "BeInCocktailLounge": 0 > -250<br>
 •• "BeInDanceClub": 0 > -250<br><br>
 
-—————————————————————————<br>
-To-do: Idles info; run DisallowAutonomous, AllowOnCommunityLots, and AllowOnAllLots once again<br><br>
-
-Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone.
+Skipped due to complete inability to find info: Delay werewolf fullmoon transformation if at work; Allow additional species to use the Weather Stone; Unlock PlayVideoPoker_Computer
