@@ -1,4 +1,4 @@
-## As of 13 January 2024, work on the mod was discontinued due to a catastrophic blunder involving that I thought "type" in ITUN could be set to "Buff(…)". Turned out it couldn't, making 90% of this mod unsalvageable. Certain parts involving food and toilets could be salvaged, but it'd only be an empty shell of the original plans.
+### As of 13 January 2024, work on the mod was discontinued due to a catastrophic blunder involving that I thought "type" in ITUN could be set to "Buff(…)". Turned out it couldn't, making 90% of this mod unsalvageable. Certain parts involving food and toilets could be salvaged, but it'd only be an empty shell of the original plans.<br>
 
 As of 6~7 January 2024, severe rash health problems prevent me from writing the entire gamemod description in one go (and certainly not screenshots or a full unabridged changelog) but I'll handle it gradually, as well as upload the actual gamemod to <i>de facto</i> Early Access, at some point in January.<br><br>
 
