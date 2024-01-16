@@ -4,14 +4,16 @@ Decided name: "Triple Duty Music Star"<br>
 ————————————————————————————————<br>
 ‰Insert intro text here.‰<br>
 ————————————————————————————————<br>
+Times are given in 12-hour format, as that's what is used as pre-existing Maxis values in the gamefiles.
+
 ### Opportunities_EP3
 • TBD
 
 ### Opportunities_EP6
-• (EP6_CareerSinger_PerformedForTips), (EP6_CareerSinger_CompletedGig_Park), (EP6_DJTurntable_CompletedMiniShow_Park), (EP6_Passport_Host_Park) "TargetData": BigPark > PigPark,SmallPark,FishingVenue,Graveyard<br>
-• (EP6_CareerSinger_CompletedGig_Bistro), (EP6_DJTurntable_CompletedMiniShow_Bistro), (EP6_Passport_Host_Bistro) "TargetData": Bistro > Bistro,Gym,Library,Pool,Arcade,CoffeeShop<br>
-• (EP6_CareerSinger_CompletedGig_Hangout), (EP6_DJTurntable_CompletedMiniShow_Hangout), (EP6_Passport_Host_PerformanceClub) "TargetData": PerformanceClub > PerformanceClub,Hangout,UnicerityHangout,RebelHangout,NerdShop<br>
-• (EP6_CareerSinger_CompletedGig_Private), (EP6_DJTurntable_CompletedMiniShow_Private), (EP6_Passport_Host_Private) "TargetData": PrivateVenue > PrivateVenue,HorseRanch<br>
+• (EP6_CareerSinger_PerformedForTips), (EP6_Magician_PerformForTips), (EP6_PerformanceArtist_PerformForTips), (EP6_CareerSinger_CompletedGig_Park), (EP6_Magician_CompletedGig_Park), (EP6_PerformanceArtist_CompletedGig_Park), (EP6_DJTurntable_CompletedMiniShow_Park), (EP6_Passport_Host_Park) "TargetData": BigPark > PigPark,SmallPark,FishingVenue,Graveyard<br>
+• (EP6_CareerSinger_CompletedGig_Bistro), (EP6_Magician_CompletedGig_Bistro), (EP6_PerformanceArtist_CompletedGig_Bistro), (EP6_DJTurntable_CompletedMiniShow_Bistro), (EP6_Passport_Host_Bistro) "TargetData": Bistro > Bistro,Gym,Library,Pool,Arcade,CoffeeShop<br>
+• (EP6_CareerSinger_CompletedGig_Hangout), (EP6_Magician_CompletedGig_PerformanceClub), (EP6_PerformanceArtist_CompletedGig_PerformanceClub), (EP6_DJTurntable_CompletedMiniShow_Hangout), (EP6_Passport_Host_PerformanceClub) "TargetData": PerformanceClub > PerformanceClub,Hangout,UniversityHangout,RebelHangout,NerdShop<br>
+• (EP6_CareerSinger_CompletedGig_Private), (EP6_Magician_CompletedGig_Hangout), (EP6_PerformanceArtist_CompletedGig_Private), (EP6_DJTurntable_CompletedMiniShow_Private), (EP6_Passport_Host_Private) "TargetData": PrivateVenue > PrivateVenue,HorseRanch<br>
 • (EP6_CareerSinger_SingForSupper_Restaurant)<br>
 •• "TargetInteractionStartTime": 2:00PM > 6:00PM<br>
 •• "TargetInteractionEndTime": 00:30AM > 10:00PM<br>
@@ -24,7 +26,66 @@ Decided name: "Triple Duty Music Star"<br>
 •• "TargetData": Theatre > Theatre,MovieSet<br>
 •• "TargetInteractionEndTime": 2:00PM > 11:00PM<br>
 •• "EventEndTime": 9:00PM > 11:00PM<br>
-(Remaining: 75%)
+• (EP6_Interaction_RelaxVocalChords)<br>
+•• "TargetInteractionStartTime": 10:00AM > 09:00AM<br>
+•• "TargetInteractionEndTime": 4:00PM > 09:30PM<br>
+•• "EventStartTime": 10:00AM > 09:00AM<br>
+•• "EventEndTime": 9:00PM > 11:30PM<br>
+• (EP6_Interaction_SingAtBigBossBirthday)<br>
+•• "TargetInteractionStartTime": 7:00PM > 4:00PM<br>
+•• "TargetInteractionEndTime": 11:00PM > 1:00AM<br>
+•• "EventStartTime": 7:00PM > 4:00PM<br>
+•• "EventEndTime": 11:00PM > 1:00AM<br>
+• (EP6_Interaction_SingNationalAnthem)<br>
+•• "TargetInteractionEndTime": 9:00AM > 9:00PM<br>
+•• "EventEndTime": 10:00AM > 10:00PM<br>
+• (EP6_Career_Singer_ParticipateInExperiment_Science), (EP6_Career_Magician_ParticipateInExperiment_Science), and (EP6_PerformanceArtist_ParticipateInExperiment_Science)<br>
+•• "TargetData": ScienceLab > ScienceLab,StellarObservatory<br>
+• (EP6_Interaction_SingNationalAnthem_Stadium)<br>
+•• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
+•• "TargetInteractionStartTime": 5:00PM > 3:00PM<br>
+•• "TargetInteractionEndTime": 7:00PM > 00:30AM<br>
+•• "EventStartTime": 5:00PM > 3:30PM<br>
+•• "EventEndTime": 7:00PM > 00:30AM<br>
+• (EP6_Magician_TeachPickPocket_Criminal)<br>
+•• "TargetInteractionStartTime": 7:00PM > 4:00PM<br>
+•• "TargetInteractionEndTime": 11:00PM > 02:00AM<br>
+• (EP6_Magician_PromoteFilmRelease_Theatre)<br>
+•• "TargetInteractionStartTime": 5:00PM > 2:00PM<br>
+•• "TargetInteractionEndTime": 11:00PM > 1:00AM<br>
+•• "EventStartTime": 7:00PM > 2:30PM<br>
+•• "EventEndTime": 11:00PM > 1:00AM<br>
+• (EP6_Magician_TeachMindControl_CityHall)<br>
+•• "TargetInteractionStartTime": 6:00PM > 6:00AM<br>
+• (EP6_Magician_EntertainTroops_MilitaryBase)<br>
+•• "TargetInteractionStartTime": 4:00PM > 10:00AM<br>
+•• "TargetInteractionEndTime": 8:00PM > 9:00PM<br>
+•• "EventEndTime": 9:00PM > 10:00PM<br>
+• (EP6_PerformanceArtist_AttendSeminar_BusinessCenter)<br>
+•• "TargetInteractionEndTime": 5:00PM > 10:00PM<br>
+•• "EventEndTime": 6:00PM > 11:00PM<br>
+• (EP6_PerformanceArtist_PoseAsStatue_Restaurant)<br>
+•• "TargetInteractionStartTime": 6:00PM > 1:00PM<br>
+•• "TargetInteractionEndTime": 9:00PM > 10:00PM<br>
+•• "EventStartTime": 10:00AM > 1:00PM<br>
+•• "EventEndTime": 6:00PM > 10:00PM<br>
+• (EP6_PerformanceArtist_PerformForSale_GroceryStore)<br>
+•• "TargetInteractionStartTime": 12:00PM > 10:30AM<br>
+•• "TargetInteractionEndTime": 4:00PM > 08:30PM<br>
+•• "EventEndTime": 10:00PM > 11:30PM<br>
+• (EP6_PerformanceArtist_SoakSoreMuscles)<br>
+•• "TargetInteractionEndTime": 4:00PM > 11:45PM<br>
+•• "EventEndTime": 9:00PM > 02:00AM<br>
+• (EP6_PerformanceArtist_EscapeArtist_Criminal)<br>
+•• "TargetInteractionStartTime": 7:00PM > 2:00PM<br>
+• (EP6_PerformanceArtist_PromoteFilmRelease_Theatre)<br>
+•• "TargetInteractionStartTime": 5:00PM > 3:00PM<br>
+•• "EventStartTime": 7:00PM > 3:00PM<br>
+• (EP6_PerformanceArtist_FillInForMascot_Stadium)<br>
+•• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
+•• "TargetInteractionStartTime": 5:00PM > 3:00PM<br>
+•• "EventStartTime": 5:00PM > 3:00PM<br>
+•• "EventEndTime": 10:00PM > 11:00PM<br>
 #### Other changes for improved convenience
 • (EP6_ReleaseGenie_TakeUnderground) "TargetData": Mausoleum > Mausoleum,VaultOfAntiquity
 
