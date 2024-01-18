@@ -6,9 +6,6 @@ Decided name: "Triple Duty Music Star"<br>
 ————————————————————————————————<br>
 Times are given in 12-hour format, as that's what is used as pre-existing Maxis values in the gamefiles.
 
-### Opportunities_EP3
-• TBD
-
 ### Opportunities_EP6
 • (EP6_CareerSinger_PerformedForTips), (EP6_Magician_PerformForTips), (EP6_PerformanceArtist_PerformForTips), (EP6_CareerSinger_CompletedGig_Park), (EP6_Magician_CompletedGig_Park), (EP6_PerformanceArtist_CompletedGig_Park), (EP6_DJTurntable_CompletedMiniShow_Park), (EP6_Passport_Host_Park) "TargetData": BigPark > PigPark,SmallPark,FishingVenue,Graveyard<br>
 • (EP6_CareerSinger_CompletedGig_Bistro), (EP6_Magician_CompletedGig_Bistro), (EP6_PerformanceArtist_CompletedGig_Bistro), (EP6_DJTurntable_CompletedMiniShow_Bistro), (EP6_Passport_Host_Bistro) "TargetData": Bistro > Bistro,Gym,Library,Pool,Arcade,CoffeeShop<br>
@@ -88,6 +85,11 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 •• "EventEndTime": 10:00PM > 11:00PM<br>
 #### Other changes for improved convenience
 • (EP6_ReleaseGenie_TakeUnderground) "TargetData": Mausoleum > Mausoleum,VaultOfAntiquity
+
+### Opportunities_EP3
+The amount of changes to this file were so complex that a 100.00% rundown of every single changed subfile is simply put not possible, but a general rundown will be listed here:
+
+• TBD
 
 ### Opportunities_BaseGame
 • (GuitarSkill_AmateurContest):<br>
