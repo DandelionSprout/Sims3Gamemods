@@ -7,10 +7,15 @@ Decided name: "Triple Duty Music Star"<br>
 Times are given in 12-hour format, as that's what is used as pre-existing Maxis values in the gamefiles.
 
 ### Opportunities_EP6
+#### Gig performances
 • (EP6_CareerSinger_PerformedForTips), (EP6_Magician_PerformForTips), (EP6_PerformanceArtist_PerformForTips), (EP6_CareerSinger_CompletedGig_Park), (EP6_Magician_CompletedGig_Park), (EP6_PerformanceArtist_CompletedGig_Park), (EP6_DJTurntable_CompletedMiniShow_Park), (EP6_Passport_Host_Park) "TargetData": BigPark > PigPark,SmallPark,FishingVenue,Graveyard<br>
 • (EP6_CareerSinger_CompletedGig_Bistro), (EP6_Magician_CompletedGig_Bistro), (EP6_PerformanceArtist_CompletedGig_Bistro), (EP6_DJTurntable_CompletedMiniShow_Bistro), (EP6_Passport_Host_Bistro) "TargetData": Bistro > Bistro,Gym,Library,Pool,Arcade,CoffeeShop<br>
 • (EP6_CareerSinger_CompletedGig_Hangout), (EP6_Magician_CompletedGig_PerformanceClub), (EP6_PerformanceArtist_CompletedGig_PerformanceClub), (EP6_DJTurntable_CompletedMiniShow_Hangout), (EP6_Passport_Host_PerformanceClub) "TargetData": PerformanceClub > PerformanceClub,Hangout,UniversityHangout,RebelHangout,NerdShop<br>
-• (EP6_CareerSinger_CompletedGig_Private), (EP6_Magician_CompletedGig_Hangout), (EP6_PerformanceArtist_CompletedGig_Private), (EP6_DJTurntable_CompletedMiniShow_Private), (EP6_Passport_Host_Private) "TargetData": PrivateVenue > PrivateVenue,HorseRanch<br>
+• (EP6_CareerSinger_CompletedGig_Private), (EP6_Magician_CompletedGig_Hangout), (EP6_PerformanceArtist_CompletedGig_Private), (EP6_DJTurntable_CompletedMiniShow_Private), (EP6_Passport_Host_Private) "TargetData": PrivateVenue > PrivateVenue,HorseRanch
+#### Multi-career opportunities
+• (EP6_Career_Singer_ParticipateInExperiment_Science), (EP6_Career_Magician_ParticipateInExperiment_Science), and (EP6_PerformanceArtist_ParticipateInExperiment_Science)<br>
+•• "TargetData": ScienceLab > ScienceLab,StellarObservatory
+#### Singer opportunities
 • (EP6_CareerSinger_SingForSupper_Restaurant)<br>
 •• "TargetInteractionStartTime": 2:00PM > 6:00PM<br>
 •• "TargetInteractionEndTime": 00:30AM > 10:00PM<br>
@@ -36,14 +41,13 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 • (EP6_Interaction_SingNationalAnthem)<br>
 •• "TargetInteractionEndTime": 9:00AM > 9:00PM<br>
 •• "EventEndTime": 10:00AM > 10:00PM<br>
-• (EP6_Career_Singer_ParticipateInExperiment_Science), (EP6_Career_Magician_ParticipateInExperiment_Science), and (EP6_PerformanceArtist_ParticipateInExperiment_Science)<br>
-•• "TargetData": ScienceLab > ScienceLab,StellarObservatory<br>
 • (EP6_Interaction_SingNationalAnthem_Stadium)<br>
 •• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
 •• "TargetInteractionStartTime": 5:00PM > 3:00PM<br>
 •• "TargetInteractionEndTime": 7:00PM > 00:30AM<br>
 •• "EventStartTime": 5:00PM > 3:30PM<br>
 •• "EventEndTime": 7:00PM > 00:30AM<br>
+#### Magician opportunities
 • (EP6_Magician_TeachPickPocket_Criminal)<br>
 •• "TargetInteractionStartTime": 7:00PM > 4:00PM<br>
 •• "TargetInteractionEndTime": 11:00PM > 02:00AM<br>
@@ -58,6 +62,7 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 •• "TargetInteractionStartTime": 4:00PM > 10:00AM<br>
 •• "TargetInteractionEndTime": 8:00PM > 9:00PM<br>
 •• "EventEndTime": 9:00PM > 10:00PM<br>
+#### Acrobat opportunities
 • (EP6_PerformanceArtist_AttendSeminar_BusinessCenter)<br>
 •• "TargetInteractionEndTime": 5:00PM > 10:00PM<br>
 •• "EventEndTime": 6:00PM > 11:00PM<br>
@@ -82,16 +87,162 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 •• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
 •• "TargetInteractionStartTime": 5:00PM > 3:00PM<br>
 •• "EventStartTime": 5:00PM > 3:00PM<br>
-•• "EventEndTime": 10:00PM > 11:00PM<br>
+•• "EventEndTime": 10:00PM > 11:00PM
 #### Other changes for improved convenience
 • (EP6_ReleaseGenie_TakeUnderground) "TargetData": Mausoleum > Mausoleum,VaultOfAntiquity
 
 ### Opportunities_EP3
-The amount of changes to this file were so complex that a 100.00% rundown of every single changed subfile is simply put not possible, but a general rundown will be listed here:
+#### Dive Bar-type gigs
+• All Dive Bar band opportunities:<br>
+•• "Chance to Get on Phone": ???? > 300 (450 for DiveBarLow1 and DiveBarLow2)<br>
+•• "EventStartTime": ???? > 11:15AM<br>
+•• "EventEndTime": ???? > 00:15AM<br>
+• (EP3_SkillBand_DiveBarLow1) "TargetData": DiveBarCriminal > DiveBarCriminal,CatJungle,Pool,DogPark,Gym,PerformanceClub,Hangout<br>
+• (EP3_SkillBand_DiveBarMid1) "TargetData": DiveBarIrish > DiveBarIrish,GroupSciencePark,NerdShop,ArtGallery,PrivateVenue,BigPark<br>
+• (EP3_SkillBand_DiveBarHigh1) "TargetData": DiveBarSports > DiveBarSports,RebelHangout,Graveyard,BeachVenue,StudentUnion,UniversityHangout,Hangout<br>
+• (EP3_SkillBand_RandomDiveB1) "TargetData": ????? > DiveBarCriminal,DiveBarIrish,HorseRanch,PrivateVenue,NerdShop,Library,DogPark,Hangout<br>
+• (EP3_SkillBand_RandomDiveC1) "TargetData": ????? > DiveBarCriminal,DiveBarIrish,BeachVenue,StudentUnion,Salon,Arcade,GroupSciencePark,Hangout<br>
+• (EP3_SkillBand_RandomDiveD1) "TargetData": ????? > DiveBarSports,DiveBarIrish,FishingVenue,Pool,ArtGallery,CoffeeShop,UniversityHangout<br>
+• (EP3_SkillBand_RandomDiveE1) "TargetData": ????? > DiveBarSports,DiveBarIrish,PerformanceClub,Gym,RebelHangout,BigPark,CatJungle,Graveyard
+#### Lounge-type gigs<br>
+• All Dive Bar band opportunities:<br>
+•• "Chance to Get on Phone": ???? > 300<br>
+•• "EventStartTime": ???? > 02:15PM<br>
+•• "EventEndTime": ???? > 01:15AM<br>
+• (EP3_SkillBand_LoungeLow1) "TargetData": CocktailLoungeAsian > CocktailLoungeAsian,GroupSciencePark,Gym,StudentUnion,PerformanceClub,Pool,Hangout<br>
+• (EP3_SkillBand_LoungeMid1) "TargetData": CocktailLoungeVampire > CocktailLoungeVampire,CatJungle,NerdShop,FishingVenue,DogPark,UniversityHangout<br>
+• (EP3_SkillBand_LoungeHigh1) "TargetData": CocktailLoungeCelebrity > CocktailLoungeCelebrity,Graveyard,Salon,BigPark,HorseRanch,Arcade,Hangout<br>
+• (EP3_SkillBand_RandomLoungeA1) "TargetData": ???? > CocktailLoungeAsian,Library,RebelHangout,PrivateVenue,ArtGallery,CoffeeShop,BeachVenue<br>
+• (EP3_SkillBand_RandomLoungeB1) "TargetData": ???? > CocktailLoungeAsian,CocktailLoungeVampire,Library,Graveyard,NerdShop,BeachVenue,CoffeeShop,PrivateVenue,Hangout<br>
+• (EP3_SkillBand_RandomLoungeC1) "TargetData": ???? > CocktailLoungeAsian,CocktailLoungeVampire,Gym,DogPark,FishingVenue,Pool,BigPark,ArtGallery,Hangout<br>
+• (EP3_SkillBand_RandomLoungeD1) "TargetData": ???? > CocktailLoungeCelebrity,CocktailLoungeVampire,CatJungle,RebelHangout,HorseRanch,Arcade,Salon,UniversityHangout,PerformanceClub
+#### Band opportunities<br>
+•• All band opportunities: ???? > 300<br>
+• (EP3_SkillBand_VarietyShow)<br>
+•• "TargetData": MovieSet > MovieSet,Theatre<br>
+•• "TargetInteractionStartTime:" ????? > 07:45AM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
+• (EP3_SkillBand_Stadium)<br>
+•• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
+•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
+• (EP3_SkillBand_Concert)<br>
+•• "TargetData": Theatre > Theatre,MovieSet<br>
+•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00AM
+#### Bass skill opportunities<br>
+• (EP3_SkillBass_MovieScore)<br>
+•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 9:00PM<br>
+• (EP3_SkillBass_OrganizeSheetMusic)<br>
+•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 9:00PM<br>
+• (EP3_SkillBass_SingAlong)<br>
+•• "TargetInteractionStartTime:" ????? > 1:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+• (EP3_SkillBass_Alien)<br>
+•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+• (EP3_SkillBass_FillIn)<br>
+•• "TargetInteractionStartTime:" ????? > 2:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00PM<br>
+• (EP3_SkillBass_Marathon)<br>
+•• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
+•• "TargetInteractionStartTime:" ????? > 7:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 9:00PM<br>
+• (EP3_SkillBass_Sitcom)<br>
+•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 9:00PM<br>
+• (EP3_SkillBass_SeeMasterClass)<br>
+•• "TargetInteractionStartTime:" ????? > 2:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
+• (EP3_SkillBass_SpaFlood)<br>
+•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+• (EP3_SkillBass_CorporateParty)<br>
+•• "TargetInteractionStartTime:" ????? > 1:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
+• (EP3_SkillBass_PoliticalDebate)<br>
+•• "TargetInteractionStartTime:" ????? > 9:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 10:00PM
+### Drums skill opportunities<br>
+• (EP3_SkillDrums_RobotScience) and (EP3_SkillDrums_DrummingScience)<br>
+•• "TargetData": ScienceLab > ScienceLab,StellarObservatory<br>
+•• "TargetInteractionStartTime:" ????? > 10:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 6:00PM<br>
+• (EP3_SkillDrums_MilitaryDrums)<br>
+•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 5:00PM <br>
+• (EP3_SkillDrums_Poetry)<br>
+•• "TargetInteractionStartTime:" ????? > 3:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 8:00PM<br>
+• (EP3_SkillDrums_LateNight)<br>
+•• "TargetData": MovieSet > MovieSet,Theatre<br>
+•• "TargetInteractionStartTime:" ????? > 4:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 11:30PM<br>
+• (EP3_SkillDrums_Landmarks)<br>
+•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+• (EP3_SkillDrums_ComedyRimshots)<br>
+•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 10:30PM<br>
+• (EP3_SkillDrums_FillIn)<br>
+•• "TargetInteractionStartTime:" ????? > 3:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
+• (EP3_SkillDrums_SpaParty)<br>
+•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+• (EP3_SkillDrums_UndergroundParty)<br>
+•• "TargetInteractionStartTime:" ????? > 2:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00PM
+### Piano skill opportunities<br>
+• (EP3_SkillPiano_SchoolMusical)<br>
+•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+• (EP3_SkillPiano_Hospital)<br>
+•• "TargetInteractionStartTime:" ????? > 10:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 4:00PM<br>
+• (EP3_SkillPiano_Gala)<br>
+•• "TargetData": MovieSet > MovieSet,Theatre<br>
+•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
+• (EP3_SkillPiano_OrganizeSheetMusic)<br>
+•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 5:00PM<br>
+• (EP3_SkillPiano_FilmComposer_1)<br>
+•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
+•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
+• (EP3_SkillPiano_FilmComposer_2)<br>
+•• "TargetInteractionStartTime:" ????? > 12:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
+• (EP3_SkillPiano_SeeMasterClass)<br>
+•• "TargetInteractionStartTime:" ????? > 3:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+• (EP3_SkillPiano_Competition)<br>
+•• "TargetInteractionStartTime:" ????? > 3:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00PM<br>
+• (EP3_SkillPiano_GiveMasterClass)<br>
+•• "TargetInteractionStartTime:" ????? > 1:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
+• (EP3_SkillPiano_SportsEvent)<br>
+•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
+•• "TargetInteractionEndTime:" ????? > 1:00AM<br><br>
 
-• TBD
+△ Check SimPerformedAtGig numbers for each gig; check where RandomDiveA1 ended up; check "Repeatable" values; check skills/gigs Requirement1<br><br>
 
 ### Opportunities_BaseGame
+#### Music career opportunities
+• (MusicCareer_LegendaryRockConcert):<br>
+•• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
+•• "TargetInteractionStartTime": 5:00PM > 4:00PM<br>
+•• "TargetInteractionEndTime": 11:00PM > 1:00AM<br>
+• (MusicCareer_LegendarySymphony):<br>
+•• "TargetInteractionStartTime": 6:00PM > 4:00PM<br>
+•• "TargetInteractionEndTime": 10:00PM > 1:00AM<br>
+• (MusicCareer_TeachClass):<br>
+•• "TargetInteractionStartTime": 4:00PM > 3:00PM<br>
+•• "TargetInteractionEndTime": 6:00PM > 11:30PM
+#### Guitar skill opportunities
 • (GuitarSkill_AmateurContest):<br>
 •• "TargetInteractionStartTime": 5:00PM > 11:00AM<br>
 •• "TargetInteractionEndTime": 9:00PM > 11:00PM<br>
@@ -112,20 +263,11 @@ The amount of changes to this file were so complex that a 100.00% rundown of eve
 • (GuitarSkill_SchoolShow):<br>
 •• "TargetInteractionStartTime": 12:00PM > 9:00AM<br>
 •• "TargetInteractionEndTime": 4:00PM > 4:30PM<br>
-•• "Requirement1": Skill,Guitar,2,6 > Skill,Guitar,2,10<br>
+•• "Requirement1": Skill,Guitar,2,6 > Skill,Guitar,2,10
+#### Town community events
 • (Location_MusicAppreciationDay):<br>
 •• "EventStartTime": 11:00AM > 9:00AM<br>
 •• "EventEndTime": 7:00PM > 10:00PM<br>
-• (MusicCareer_LegendaryRockConcert):<br>
-•• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
-•• "TargetInteractionStartTime": 5:00PM > 4:00PM<br>
-•• "TargetInteractionEndTime": 11:00PM > 1:00AM<br>
-• (MusicCareer_LegendarySymphony):<br>
-•• "TargetInteractionStartTime": 6:00PM > 4:00PM<br>
-•• "TargetInteractionEndTime": 10:00PM > 1:00AM<br>
-• (MusicCareer_TeachClass):<br>
-•• "TargetInteractionStartTime": 4:00PM > 3:00PM<br>
-•• "TargetInteractionEndTime": 6:00PM > 11:30PM
 #### Non-music opportunities hopefully being given more rabbithole variation, as they too are stadiums
 • (BusinessCareer_HoldMeeting), (PoliticalCareer_Stunt): "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
 • (Location_AmateurOlympics):<br>
@@ -137,7 +279,10 @@ The amount of changes to this file were so complex that a 100.00% rundown of eve
 • (All opportunities) "ChanceToGetOnPhone": 0 > 20 (Trying to fix a strange bug where Island Paradise opportunities are given far, far more often than any other opportunities. It's anyone's guess if the bugfix works.)
 
 ### Opportunities_EP11
-• TBD (Look into Laser Rhythm skill opportunities)
+• (EP11_Skill_Harp01-05) and (EP11_Misc_Future02-07) "ChanceToGetOnPhone": 500 > 125<br>
+• (EP11_Skill_Harp01) Removed the "IsInFuture" requirement.<br>
+• (EP11_Skill_Harp02) "TargetData": Restaurant > Restaurant,Bistro<br>
+• (EP11_Skill_Harp03) "TargetData": ServoBotArena > ServoBotArena,Stadium,EquestrianCenter
 
 ### Skills
 • TBD
