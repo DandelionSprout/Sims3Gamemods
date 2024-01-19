@@ -118,7 +118,7 @@ All gigs and band opportunities are now set to «"RepeatLevel": Always» no matt
 • (EP3_SkillBand_RandomLoungeB1) "TargetData": ???? > CocktailLoungeAsian,CocktailLoungeVampire,Library,Graveyard,NerdShop,BeachVenue,CoffeeShop,PrivateVenue,Hangout<br>
 • (EP3_SkillBand_RandomLoungeC1) "TargetData": ???? > CocktailLoungeAsian,CocktailLoungeVampire,Gym,DogPark,FishingVenue,Pool,BigPark,ArtGallery,Hangout<br>
 • (EP3_SkillBand_RandomLoungeD1) "TargetData": ???? > CocktailLoungeCelebrity,CocktailLoungeVampire,CatJungle,RebelHangout,HorseRanch,Arcade,Salon,UniversityHangout,PerformanceClub
-#### Band opportunities<br>
+#### Band opportunities
 •• All band opportunities: ???? > 300<br>
 • (EP3_SkillBand_VarietyShow)<br>
 •• "TargetData": MovieSet > MovieSet,Theatre<br>
@@ -132,91 +132,58 @@ All gigs and band opportunities are now set to «"RepeatLevel": Always» no matt
 •• "TargetData": Theatre > Theatre,MovieSet<br>
 •• "TargetInteractionStartTime:" ????? > 5:00PM<br>
 •• "TargetInteractionEndTime:" ????? > 1:00AM
-#### Bass skill opportunities<br>
-• (EP3_SkillBass_MovieScore)<br>
-•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 9:00PM<br>
-• (EP3_SkillBass_OrganizeSheetMusic)<br>
-•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 9:00PM<br>
-• (EP3_SkillBass_SingAlong)<br>
-•• "TargetInteractionStartTime:" ????? > 1:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
-• (EP3_SkillBass_Alien)<br>
-•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+#### Bass skill opportunities
+• (EP3_SkillBass_MovieScore) "TargetInteractionEndTime:" 6:00PM > 9:00PM<br>
+• (EP3_SkillBass_OrganizeSheetMusic) "TargetInteractionEndTime:" 5:00PM > 9:00PM<br>
+• (EP3_SkillBass_SingAlong) "TargetInteractionStartTime:" 5:00PM > 1:00PM<br>
+• (EP3_SkillBass_Alien) "TargetInteractionEndTime:" 08:00 > 10:00PM<br>
 • (EP3_SkillBass_FillIn)<br>
-•• "TargetInteractionStartTime:" ????? > 2:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00PM<br>
+•• "TargetInteractionStartTime:" 5:00PM > 2:00PM<br>
+•• "TargetInteractionEndTime:" 11:00PM > 1:00PM<br>
 • (EP3_SkillBass_Marathon)<br>
 •• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
-•• "TargetInteractionStartTime:" ????? > 7:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 9:00PM<br>
+•• "TargetInteractionStartTime:" 10:00 > 7:00AM<br>
+•• "TargetInteractionEndTime:" 8:00PM > 9:00PM<br>
+•• "Requirement1": Skill,Bass,3,6 > Skill,Bass,3,10<br>
 • (EP3_SkillBass_Sitcom)<br>
-•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 9:00PM<br>
+•• "TargetInteractionStartTime:" 12:00PM > 11:00AM<br>
+•• "TargetInteractionEndTime:" 4:00PM > 9:00PM<br>
 • (EP3_SkillBass_SeeMasterClass)<br>
-•• "TargetInteractionStartTime:" ????? > 2:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
-• (EP3_SkillBass_SpaFlood)<br>
-•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+•• "TargetInteractionStartTime:" 5:00PM > 2:00PM<br>
+•• "TargetInteractionEndTime:" 9:00PM > 11:00PM<br>
 • (EP3_SkillBass_CorporateParty)<br>
-•• "TargetInteractionStartTime:" ????? > 1:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
+•• "TargetInteractionStartTime:" 5:00PM > 1:00PM<br>
+•• "TargetInteractionEndTime:" 10:00PM > 11:00PM<br>
 • (EP3_SkillBass_PoliticalDebate)<br>
-•• "TargetInteractionStartTime:" ????? > 9:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 10:00PM
-### Drums skill opportunities<br>
+•• "TargetInteractionStartTime:" 1:00PM > 9:00AM<br>
+•• "TargetInteractionEndTime:" 6:00PM > 10:00PM
+### Drums skill opportunities
 • (EP3_SkillDrums_RobotScience) and (EP3_SkillDrums_DrummingScience)<br>
 •• "TargetData": ScienceLab > ScienceLab,StellarObservatory<br>
-•• "TargetInteractionStartTime:" ????? > 10:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 6:00PM<br>
-• (EP3_SkillDrums_MilitaryDrums)<br>
-•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 5:00PM <br>
-• (EP3_SkillDrums_Poetry)<br>
-•• "TargetInteractionStartTime:" ????? > 3:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 8:00PM<br>
 • (EP3_SkillDrums_LateNight)<br>
 •• "TargetData": MovieSet > MovieSet,Theatre<br>
-•• "TargetInteractionStartTime:" ????? > 4:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 11:30PM<br>
+•• "TargetInteractionStartTime:" 5:00PM > 4:00PM<br>
+•• "Requirement1": Skill,Drums,6,8 > Skill,Drums,6,10<br>
 • (EP3_SkillDrums_Landmarks)<br>
-•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+•• "TargetInteractionEndTime:" 4:00PM > 10:00PM<br>
 • (EP3_SkillDrums_ComedyRimshots)<br>
-•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 10:30PM<br>
+•• "TargetInteractionEndTime:" 10:00PM > 10:30PM<br>
 • (EP3_SkillDrums_FillIn)<br>
-•• "TargetInteractionStartTime:" ????? > 3:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
+•• "TargetInteractionStartTime:" 7:00PM > 3:00PM<br>
+•• "TargetInteractionEndTime:" 11:00PM > 1:00AM<br>
 • (EP3_SkillDrums_SpaParty)<br>
-•• "TargetInteractionStartTime:" ????? > 11:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+•• "TargetInteractionEndTime:" 4:00PM > 10:00PM<br>
 • (EP3_SkillDrums_UndergroundParty)<br>
-•• "TargetInteractionStartTime:" ????? > 2:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00PM
-### Piano skill opportunities<br>
-• (EP3_SkillPiano_SchoolMusical)<br>
-•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
-• (EP3_SkillPiano_Hospital)<br>
-•• "TargetInteractionStartTime:" ????? > 10:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 4:00PM<br>
+•• "TargetInteractionStartTime:" 3:00PM > 2:00PM<br>
+•• "TargetInteractionEndTime:" 7:00PM > 1:00PM<br>
+•• "TargetData": Skill,Drums,2,4 > Skill,Drums,2,5<br>
+### Piano skill opportunities
+• (EP3_SkillPiano_SchoolMusical) "Requirement1": Skill,Piano,3,6 > Skill,Piano,3,8<br>
+• (EP3_SkillPiano_Hospital) "Requirement1": Skill,Piano,2,4 > Skill,Piano,2,5<br>
 • (EP3_SkillPiano_Gala)<br>
 •• "TargetData": MovieSet > MovieSet,Theatre<br>
-•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
-• (EP3_SkillPiano_OrganizeSheetMusic)<br>
-•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 5:00PM<br>
-• (EP3_SkillPiano_FilmComposer_1)<br>
-•• "TargetInteractionStartTime:" ????? > 8:00AM<br>
-•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
-• (EP3_SkillPiano_FilmComposer_2)<br>
-•• "TargetInteractionStartTime:" ????? > 12:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
+•• "TargetInteractionEndTime:" 11:59PM > 1:00AM<br>
+•• "Requirement1": Skill,Piano,6,8 > Skill,Piano,6,10<br>
 • (EP3_SkillPiano_SeeMasterClass)<br>
 •• "TargetInteractionStartTime:" ????? > 3:00PM<br>
 •• "TargetInteractionEndTime:" ????? > 10:00PM<br>
@@ -228,9 +195,10 @@ All gigs and band opportunities are now set to «"RepeatLevel": Always» no matt
 •• "TargetInteractionEndTime:" ????? > 11:00PM<br>
 • (EP3_SkillPiano_SportsEvent)<br>
 •• "TargetInteractionStartTime:" ????? > 5:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00AM<br><br>
+•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
+• (What on earth happened to the FilmComposer times???)<br>
 
-△ Check skills/gigs Requirement1<br><br>
+△ Check skills/gigs Requirement1; check gig and piano hours<br><br>
 
 ### Opportunities_BaseGame
 #### Music career opportunities
