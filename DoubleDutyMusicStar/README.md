@@ -92,6 +92,7 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 • (EP6_ReleaseGenie_TakeUnderground) "TargetData": Mausoleum > Mausoleum,VaultOfAntiquity
 
 ### Opportunities_EP3
+All gigs and band opportunities are now set to «"RepeatLevel": Always» no matter what.
 #### Dive Bar-type gigs
 • All Dive Bar band opportunities:<br>
 •• "Chance to Get on Phone": ???? > 300 (450 for DiveBarLow1 and DiveBarLow2)<br>
@@ -100,6 +101,7 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 • (EP3_SkillBand_DiveBarLow1) "TargetData": DiveBarCriminal > DiveBarCriminal,CatJungle,Pool,DogPark,Gym,PerformanceClub,Hangout<br>
 • (EP3_SkillBand_DiveBarMid1) "TargetData": DiveBarIrish > DiveBarIrish,GroupSciencePark,NerdShop,ArtGallery,PrivateVenue,BigPark<br>
 • (EP3_SkillBand_DiveBarHigh1) "TargetData": DiveBarSports > DiveBarSports,RebelHangout,Graveyard,BeachVenue,StudentUnion,UniversityHangout,Hangout<br>
+• (EP3_SkillBand_RandomDiveA1) "TargetData": DiveBarCriminal > DiveBarCriminal,DiveBarSports,DiveBarIrish,FestivalGrounds,Library<br>
 • (EP3_SkillBand_RandomDiveB1) "TargetData": ????? > DiveBarCriminal,DiveBarIrish,HorseRanch,PrivateVenue,NerdShop,Library,DogPark,Hangout<br>
 • (EP3_SkillBand_RandomDiveC1) "TargetData": ????? > DiveBarCriminal,DiveBarIrish,BeachVenue,StudentUnion,Salon,Arcade,GroupSciencePark,Hangout<br>
 • (EP3_SkillBand_RandomDiveD1) "TargetData": ????? > DiveBarSports,DiveBarIrish,FishingVenue,Pool,ArtGallery,CoffeeShop,UniversityHangout<br>
@@ -228,7 +230,7 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 •• "TargetInteractionStartTime:" ????? > 5:00PM<br>
 •• "TargetInteractionEndTime:" ????? > 1:00AM<br><br>
 
-△ Check SimPerformedAtGig numbers for each gig; check where RandomDiveA1 ended up; check "Repeatable" values; check skills/gigs Requirement1<br><br>
+△ Check skills/gigs Requirement1<br><br>
 
 ### Opportunities_BaseGame
 #### Music career opportunities
@@ -283,9 +285,6 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 • (EP11_Skill_Harp01) Removed the "IsInFuture" requirement.<br>
 • (EP11_Skill_Harp02) "TargetData": Restaurant > Restaurant,Bistro<br>
 • (EP11_Skill_Harp03) "TargetData": ServoBotArena > ServoBotArena,Stadium,EquestrianCenter
-
-### Skills
-• TBD
 
 ### Gig_0x5645eab71079badc
 • "kHoursBeforeGigToPullAudence": 2.00 > 0.30
