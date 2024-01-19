@@ -95,43 +95,74 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 All gigs and band opportunities are now set to «"RepeatLevel": Always» no matter what.
 #### Dive Bar-type gigs
 • All Dive Bar band opportunities:<br>
-•• "Chance to Get on Phone": ???? > 300 (450 for DiveBarLow1 and DiveBarLow2)<br>
-•• "EventStartTime": ???? > 11:15AM<br>
-•• "EventEndTime": ???? > 00:15AM<br>
-• (EP3_SkillBand_DiveBarLow1) "TargetData": DiveBarCriminal > DiveBarCriminal,CatJungle,Pool,DogPark,Gym,PerformanceClub,Hangout<br>
-• (EP3_SkillBand_DiveBarMid1) "TargetData": DiveBarIrish > DiveBarIrish,GroupSciencePark,NerdShop,ArtGallery,PrivateVenue,BigPark<br>
-• (EP3_SkillBand_DiveBarHigh1) "TargetData": DiveBarSports > DiveBarSports,RebelHangout,Graveyard,BeachVenue,StudentUnion,UniversityHangout,Hangout<br>
-• (EP3_SkillBand_RandomDiveA1) "TargetData": DiveBarCriminal > DiveBarCriminal,DiveBarSports,DiveBarIrish,FestivalGrounds,Library<br>
-• (EP3_SkillBand_RandomDiveB1) "TargetData": ????? > DiveBarCriminal,DiveBarIrish,HorseRanch,PrivateVenue,NerdShop,Library,DogPark,Hangout<br>
-• (EP3_SkillBand_RandomDiveC1) "TargetData": ????? > DiveBarCriminal,DiveBarIrish,BeachVenue,StudentUnion,Salon,Arcade,GroupSciencePark,Hangout<br>
-• (EP3_SkillBand_RandomDiveD1) "TargetData": ????? > DiveBarSports,DiveBarIrish,FishingVenue,Pool,ArtGallery,CoffeeShop,UniversityHangout<br>
-• (EP3_SkillBand_RandomDiveE1) "TargetData": ????? > DiveBarSports,DiveBarIrish,PerformanceClub,Gym,RebelHangout,BigPark,CatJungle,Graveyard
+•• "Chance to Get on Phone": 30 or 50 > 300 (450 for DiveBarLow1 and DiveBarLow2)<br>
+•• "EventStartTime": Between 12:00PM and 8:00PM > 11:15AM<br>
+•• "EventEndTime": Between 14:00PM and 11:00PM > 00:15AM<br>
+• (EP3_SkillBand_DiveBarLow1):
+•• "TargetData": DiveBarCriminal > DiveBarCriminal,CatJungle,Pool,DogPark,Gym,PerformanceClub,Hangout
+•• "Requirement3": HasCompletedNGigs,0,1 > HasCompletedNGigs,????
+• (EP3_SkillBand_DiveBarMid1):
+•• "TargetData": DiveBarIrish > DiveBarIrish,GroupSciencePark,NerdShop,ArtGallery,PrivateVenue,BigPark
+•• "Requirement3": HasCompletedNGigs,3,4 > HasCompletedNGigs,
+• (EP3_SkillBand_DiveBarHigh1):
+•• "TargetData": DiveBarSports > DiveBarSports,RebelHangout,Graveyard,BeachVenue,StudentUnion,UniversityHangout,Hangout
+•• "Requirement3": HasCompletedNGigs,6,7 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomDiveA1):
+•• "TargetData": DiveBarCriminal > DiveBarCriminal,DiveBarSports,DiveBarIrish,FestivalGrounds,Library
+•• "Requirement3": HasCompletedNGigs,1,3 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomDiveB1):
+•• "TargetData": DiveBarCriminal,DiveBarIrish > DiveBarCriminal,DiveBarIrish,HorseRanch,PrivateVenue,NerdShop,Library,DogPark,Hangout
+•• "Requirement3": HasCompletedNGigs,1,3 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomDiveC1):
+•• "TargetData": DiveBarCriminal,DiveBarIrish > DiveBarCriminal,DiveBarIrish,BeachVenue,StudentUnion,Salon,Arcade,GroupSciencePark,Hangout
+•• "Requirement3": HasCompletedNGigs,2,6 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomDiveD1):
+•• "TargetData": DiveBarSports,DiveBarIrish > DiveBarSports,DiveBarIrish,FishingVenue,Pool,ArtGallery,CoffeeShop,UniversityHangout
+•• "Requirement3": HasCompletedNGigs,3,7 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomDiveE1):
+•• "TargetData": DiveBarSports,DiveBarIrish > DiveBarSports,DiveBarIrish,PerformanceClub,Gym,RebelHangout,BigPark,CatJungle,Graveyard
+•• "Requirement3": HasCompletedNGigs,3,7 > HasCompletedNGigs,
 #### Lounge-type gigs<br>
 • All Dive Bar band opportunities:<br>
-•• "Chance to Get on Phone": ???? > 300<br>
-•• "EventStartTime": ???? > 02:15PM<br>
-•• "EventEndTime": ???? > 01:15AM<br>
-• (EP3_SkillBand_LoungeLow1) "TargetData": CocktailLoungeAsian > CocktailLoungeAsian,GroupSciencePark,Gym,StudentUnion,PerformanceClub,Pool,Hangout<br>
-• (EP3_SkillBand_LoungeMid1) "TargetData": CocktailLoungeVampire > CocktailLoungeVampire,CatJungle,NerdShop,FishingVenue,DogPark,UniversityHangout<br>
-• (EP3_SkillBand_LoungeHigh1) "TargetData": CocktailLoungeCelebrity > CocktailLoungeCelebrity,Graveyard,Salon,BigPark,HorseRanch,Arcade,Hangout<br>
-• (EP3_SkillBand_RandomLoungeA1) "TargetData": ???? > CocktailLoungeAsian,Library,RebelHangout,PrivateVenue,ArtGallery,CoffeeShop,BeachVenue<br>
-• (EP3_SkillBand_RandomLoungeB1) "TargetData": ???? > CocktailLoungeAsian,CocktailLoungeVampire,Library,Graveyard,NerdShop,BeachVenue,CoffeeShop,PrivateVenue,Hangout<br>
-• (EP3_SkillBand_RandomLoungeC1) "TargetData": ???? > CocktailLoungeAsian,CocktailLoungeVampire,Gym,DogPark,FishingVenue,Pool,BigPark,ArtGallery,Hangout<br>
-• (EP3_SkillBand_RandomLoungeD1) "TargetData": ???? > CocktailLoungeCelebrity,CocktailLoungeVampire,CatJungle,RebelHangout,HorseRanch,Arcade,Salon,UniversityHangout,PerformanceClub
+•• "Chance to Get on Phone": 30 or 50 > 300<br>
+•• "EventStartTime": Between 3:00PM and 8:00PM > 02:15PM<br>
+•• "EventEndTime": Between 7:00PM and 12:00AM > 1:15AM<br>
+• (EP3_SkillBand_LoungeLow1):
+•• "TargetData": CocktailLoungeAsian > CocktailLoungeAsian,GroupSciencePark,Gym,StudentUnion,PerformanceClub,Pool,Hangout
+•• "Requirement3": HasCompletedNGigs,7,8 > HasCompletedNGigs,????
+• (EP3_SkillBand_LoungeMid1):
+•• "TargetData": CocktailLoungeVampire > CocktailLoungeVampire,CatJungle,NerdShop,FishingVenue,DogPark,UniversityHangout
+•• "Requirement3": HasCompletedNGigs,9,10 > HasCompletedNGigs,
+• (EP3_SkillBand_LoungeHigh1):
+•• "TargetData": CocktailLoungeCelebrity > CocktailLoungeCelebrity,Graveyard,Salon,BigPark,HorseRanch,Arcade,Hangout
+•• "Requirement3": HasCompletedNGigs,11,12 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomLoungeA1):
+•• "TargetData": CocktailLoungeAsian > CocktailLoungeAsian,Library,RebelHangout,PrivateVenue,ArtGallery,CoffeeShop,BeachVenue
+•• "Requirement3": HasCompletedNGigs,7,500 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomLoungeB1):
+•• "TargetData": CocktailLoungeAsian,CocktailLoungeVampire > CocktailLoungeAsian,CocktailLoungeVampire,Library,Graveyard,NerdShop,BeachVenue,CoffeeShop,PrivateVenue,Hangout
+•• "Requirement3": HasCompletedNGigs,9,500 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomLoungeC1):
+•• "TargetData": CocktailLoungeAsian,CocktailLoungeVampire > CocktailLoungeAsian,CocktailLoungeVampire,Gym,DogPark,FishingVenue,Pool,BigPark,ArtGallery,Hangout
+•• "Requirement3": HasCompletedNGigs,9,500 > HasCompletedNGigs,
+• (EP3_SkillBand_RandomLoungeD1):
+•• "TargetData": CocktailLoungeCelebrity,CocktailLoungeVampire > CocktailLoungeCelebrity,CocktailLoungeVampire,CatJungle,RebelHangout,HorseRanch,Arcade,Salon,UniversityHangout,PerformanceClub
+•• "Requirement3": HasCompletedNGigs,11,500 > HasCompletedNGigs,
 #### Band opportunities
-•• All band opportunities: ???? > 300<br>
+•• All band opportunities: 30 > 300<br>
 • (EP3_SkillBand_VarietyShow)<br>
 •• "TargetData": MovieSet > MovieSet,Theatre<br>
-•• "TargetInteractionStartTime:" ????? > 07:45AM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
+•• "TargetInteractionStartTime:" 5:00PM > 7:45AM<br>
+•• "TargetInteractionEndTime:" 11:00PM > 1:00AM<br>
+•• "Requirement3": HasCompletedNGigs,10,20 > HasCompletedNGigs,
 • (EP3_SkillBand_Stadium)<br>
 •• "TargetData": Stadium > Stadium,EquestrianCenter,ServoBotArena<br>
-•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
+•• "TargetInteractionEndTime:" 11:00PM > 1:00AM<br>
+•• "Requirement3": HasCompletedNGigs,15,500 > HasCompletedNGigs,???
 • (EP3_SkillBand_Concert)<br>
 •• "TargetData": Theatre > Theatre,MovieSet<br>
-•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00AM
+•• "TargetInteractionEndTime:" 11:00PM > 1:00AM
+•• "Requirement3": HasCompletedNGigs,0,7 > HasCompletedNGigs,????
 #### Bass skill opportunities
 • (EP3_SkillBass_MovieScore) "TargetInteractionEndTime:" 6:00PM > 9:00PM<br>
 • (EP3_SkillBass_OrganizeSheetMusic) "TargetInteractionEndTime:" 5:00PM > 9:00PM<br>
@@ -185,20 +216,19 @@ All gigs and band opportunities are now set to «"RepeatLevel": Always» no matt
 •• "TargetInteractionEndTime:" 11:59PM > 1:00AM<br>
 •• "Requirement1": Skill,Piano,6,8 > Skill,Piano,6,10<br>
 • (EP3_SkillPiano_SeeMasterClass)<br>
-•• "TargetInteractionStartTime:" ????? > 3:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 10:00PM<br>
+•• "TargetInteractionStartTime:" 5:00PM > 3:00PM<br>
+•• "TargetInteractionEndTime:" 9:00PM > 10:00PM<br>
 • (EP3_SkillPiano_Competition)<br>
-•• "TargetInteractionStartTime:" ????? > 3:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00PM<br>
+•• "TargetInteractionStartTime:" 5:00PM > 3:00PM<br>
+•• "TargetInteractionEndTime:" 10:00PM > 1:00PM<br>
 • (EP3_SkillPiano_GiveMasterClass)<br>
-•• "TargetInteractionStartTime:" ????? > 1:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 11:00PM<br>
-• (EP3_SkillPiano_SportsEvent)<br>
-•• "TargetInteractionStartTime:" ????? > 5:00PM<br>
-•• "TargetInteractionEndTime:" ????? > 1:00AM<br>
-• (What on earth happened to the FilmComposer times???)<br>
+•• "TargetInteractionStartTime:" 5:00PM > 1:00PM<br>
+•• "TargetInteractionEndTime:" 9:00PM > 11:00PM<br>
+• (EP3_SkillPiano_SportsEvent) "TargetInteractionEndTime:" 11:00PM > 1:00AM<br>
+• (EP3_SkillPiano_FilmComposer_1) "TargetInteractionEndTime:" 7:00PM > 11:00PM<br>
+• (EP3_SkillPiano_FilmComposer_2) "TargetInteractionEndTime:" 7:00 > 11:00PM<br>
 
-△ Check skills/gigs Requirement1; check gig and piano hours<br><br>
+△ Check gigs Requirement1; doublecheck "????"-values<br><br>
 
 ### Opportunities_BaseGame
 #### Music career opportunities
