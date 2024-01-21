@@ -1,5 +1,3 @@
-Writing the changelog for this one, is going to take a while, to say it the least.<br><br>
-
 Decided name: "Triple Duty Music Star"<br>
 ————————————————————————————————<br>
 ‰Insert intro text here.‰<br>
