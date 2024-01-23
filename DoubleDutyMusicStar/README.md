@@ -1,7 +1,27 @@
 Decided name: "Triple Duty Music Star"<br>
 ————————————————————————————————<br>
-‰Insert intro text here.‰<br>
-————————————————————————————————<br>
+Have your Sims ever dreamed of being a true music superstar, who wanted to excel in multiple music fields, but who felt discouraged from doing so due to severely conflicting concert times? This mod will give your Sim the chance to finally excel and become a double-duty or even triple-duty superstar! A Sim that few people may have noticed even at autograph signings, will now the entire town want a piece of them, almost 24/7.
+
+Want to combine the cinema Music career with Late Night band gigs? Now you can!
+
+To combine any of the Showtime performer careers with Late Night band gigs? You're on.
+
+Combining any of the above with countless musician skill opportunities, and even DJ gigs resulting from having practiced at DJ booths for days on end? Game on.
+
+The mod primarily works by:
+• [b][i]Massively[/i][/b] increasing the chances for Late Night gigs to be offered by phone.
+• Drastically extending the timeslots where one 2-hour gig can be performed.
+• Significantly expanding the amount of lot assignments where Late Night gigs and to some extent Showtime gigs can take place.
+• Made Late Night gigs have less stringent requirements for how many other gigs a band must or may have performed before.
+• Any Late Night gigs that were previously once-in-a-lifetime only, can now be offered multiple times.
+• The timeslots of music-related skill opportunities across base game, Late Night, Showtime, and Into the Future, have been extended to varying extents, some by quite a lot.
+• [i]Partially[/i] reduced some bugs that led Scuba Diving and Laser Rhythm-a-Con opportunities to be offered more often than they probably should.
+
+The mod was a solid 4 months in the making (The full changelog alone took 3 weeks to write), but now it's here and ready for, literally speaking, showtime!
+
+The mod is by far most useful for players with Late Night installed, and even more so if both Late Night and Showtime are installed, but the mod itself is technically base game compatible, and would in a "Base game only" setting still provide some improvements to Guitar skill opportunities and to the Music career opportunities.
+
+## All changes
 Times are given in 12-hour format, as that's what is used as pre-existing Maxis values in the gamefiles.
 
 ### Opportunities_EP6
@@ -280,4 +300,9 @@ All gigs and band opportunities are now set to «"RepeatLevel": Always» no matt
 • "kHoursBeforeGigToPullAudence": 2.00 > 0.30
 
 ### GigOpportunity_0x5e0966d3a36349a5
-• "kTnsReminderLeadTime": 4 > 1
+• "kTnsReminderLeadTime": 4 > 1<br><br>
+
+## Notes
+• The mod is unlikely to conflict with other mods that I'm currently aware of. If there are conflicts, players can open this mod in S3PE, delete the conflicting rows with the Del key, and then save the mod. Note however that "Opportunities_EP3" and "Opportunities_EP6" are very important parts of this mod, and that this mod would be borderline useless without those files.
+• During testing, a minor bug in the game itself was discovered wherein the game would only offer 3 Late Night gigs in each play session, requiring saving and restarting the game to get additional ones. As players without the mod have been known to struggle to get gigs for weeks or even months in in-game time, very few players would ever have encountered that bug before.
+• The mod was made with and tested with Patch 67, as it is indeed the most common patch version on Windows by far. Later patches should not have any problems with it in any way, but Patch 57 and earlier are anyone's guess.
