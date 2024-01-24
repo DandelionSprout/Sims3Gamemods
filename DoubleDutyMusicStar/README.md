@@ -15,6 +15,7 @@ The mod primarily works by:
 • Made Late Night gigs have less stringent requirements for how many other gigs a band must or may have performed before.
 • Any Late Night gigs that were previously once-in-a-lifetime only, can now be offered multiple times.
 • The timeslots of music-related skill opportunities across base game, Late Night, Showtime, and Into the Future, have been extended to varying extents, some by quite a lot.
+• Late Night gigs now take place the day after getting the phone call, instead of 2 days after.
 • [i]Partially[/i] reduced some bugs that led Scuba Diving and Laser Rhythm-a-Con opportunities to be offered more often than they probably should.
 
 The mod was a solid 4 months in the making (The full changelog alone took 3 weeks to write), but now it's here and ready for, literally speaking, showtime!
@@ -241,6 +242,8 @@ All gigs and band opportunities are now set to «"RepeatLevel": Always» no matt
 • (EP3_SkillPiano_SportsEvent) "TargetInteractionEndTime:" 11:00PM > 1:00AM<br>
 • (EP3_SkillPiano_FilmComposer_1) "TargetInteractionEndTime:" 7:00PM > 11:00PM<br>
 • (EP3_SkillPiano_FilmComposer_2) "TargetInteractionEndTime:" 7:00 > 11:00PM<br>
+
+△ Find the strings that determine that Late Night gigs take place 1 day after instead of 2 days.
 
 ### Opportunities_BaseGame
 #### Music career opportunities
