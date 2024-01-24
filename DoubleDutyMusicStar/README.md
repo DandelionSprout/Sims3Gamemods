@@ -111,7 +111,8 @@ Times are given in 12-hour format, as that's what is used as pre-existing Maxis 
 • (EP6_ReleaseGenie_TakeUnderground) "TargetData": Mausoleum > Mausoleum,VaultOfAntiquity
 
 ### Opportunities_EP3
-All gigs and band opportunities are now set to «"RepeatLevel": Always» no matter what.
+All gigs and band opportunities are now set to «"RepeatLevel": Always» no matter what.<br><br>
+All gigs have «"Timeout": 1» changed to «"Timeout": 0», so that gigs happen the day after the phone call, instead of 2 days.
 #### Dive Bar-type gigs
 • All Dive Bar band opportunities:<br>
 •• "Chance to Get on Phone": 30 or 50 > 300 (450 for DiveBarLow1 and DiveBarLow2)<br>
