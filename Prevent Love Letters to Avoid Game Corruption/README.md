@@ -1,6 +1,6 @@
 Arguably the most severe glitch in The Sims 3 that had not yet been consistently fixed in gamemods, is when an active household all of a sudden has their Sims be reset almost every time they choose "Get Mail" from their mailboxes, and the mailboxes would get continuously stuffed with unusable and unpayable gifts and Omniplant boxes, which are also very difficult to get rid off without e.g. NRaas Debug Enabler.
 
-The "No Bills" lifetime reward doesn't fix it, replacing the mailbox with Buydebug doesn't fix it, and NRaas Overwatch has not been a guaranteed fix either (Even more so if "_______ Active Lot" hasn't been turned on manually on that savefile).
+The "No Bills" lifetime reward doesn't fix it, replacing the mailbox with Buydebug doesn't fix it, and NRaas Overwatch has not been a guaranteed fix either (Even more so if "Affect Active Lot" hasn't been turned on manually on that savefile).
 
 This overall situation left the glitch as a nightmare that made long-running savefiles near-unplayable... [b]until now![/b]
 
