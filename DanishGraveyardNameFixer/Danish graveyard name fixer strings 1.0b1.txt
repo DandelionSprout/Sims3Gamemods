@@ -28,7 +28,7 @@
 «Kirkegården er et sted, hvor folk kan sørge og mindes de døde, men nogle simmere er rædselsslagne for stedet. Bare rolig: Historierne om spøgelser, der lurer efter solnedgang, er formentlig blot ammestuehistorier.» → «Gravpladsen er et sted, hvor folk kan sørge og mindes de døde, men nogle simmere er rædselsslagne for stedet. Bare rolig: Historierne om spøgelser, der lurer efter solnedgang, er formentlig blot ammestuehistorier.»
 «Den evige hviles kirkegård» → «Den evige hviles gravplads»
 «Antikveret viktoriansk elegance er bibeholdt på fineste vis i dette flotte hjem. Spøgh-palæet er det første hjem, der blev bygget i denne by, og det har både god udsigt over byen og ligger tæt på den lokale kirkegård.» → «Antikveret viktoriansk elegance er bibeholdt på fineste vis i dette flotte hjem. Spøgh-palæet er det første hjem, der blev bygget i denne by, og det har både god udsigt over byen og ligger tæt på den lokale gravplads.»
-«Skipagøtu» → «Skipagøtu»
+«Kirkegaard» → «Skipagøtu»
 «De gerninger, {0.SimFirstName} udførte, har glædet nogle af kirkegårdens beboere. {0.SimFirstName} er blevet belønnet med {1.Money}.» → «De gerninger, {0.SimFirstName} udførte, har glædet nogle af gravpladsens beboere. {0.SimFirstName} er blevet belønnet med {1.Money}.»
 «Der er en besked på væggen. Der står med rystet håndskrift: "Jeg er museets kurator. Jeg var ved at flytte en sarkofag i dette lagerområde, da døren pludselig blev lukket bag mig. Jeg kan ikke slippe ud, og jeg kommer nok aldrig bort herfra. Hvis du ser denne besked, må du gerne have den venlighed at anbringe mine rester i familiekisten omme bag i kirkegården, så jeg kan hvile sammen med min kone."» → «Der er en besked på væggen. Der står med rystet håndskrift: "Jeg er museets kurator. Jeg var ved at flytte en sarkofag i dette lagerområde, da døren pludselig blev lukket bag mig. Jeg kan ikke slippe ud, og jeg kommer nok aldrig bort herfra. Hvis du ser denne besked, må du gerne have den venlighed at anbringe mine rester i familiekisten omme bag i gravpladsen, så jeg kan hvile sammen med min kone."»
 «Vrede spøgelser fra kirkegården har taget en af graverne som gidsel i mausoleet!» → «Vrede spøgelser fra gravpladsen har taget en af graverne som gidsel i mausoleet!»
@@ -69,4 +69,5 @@
 «Du har placeret Hellig Hvile-kirkegården. Kom over, og hæng ud med nogle spøgelser.» → «Du har placeret Hellig Hvile-gravpladsen. Kom over, og hæng ud med nogle spøgelser.»
 «Fans af møder med spøgelser bør besøge kirkegården, når det er fuldmåne.» → «Fans af møder med spøgelser bør besøge gravpladsen, når det er fuldmåne.»
 «Kirkegården Havblik» → «Gravpladsen Havblik»
+
 «Som barn elskede Javiera at studere spøgelserne på kirkegården.» → «Som barn elskede Javiera at studere spøgelserne på gravpladsen.»
