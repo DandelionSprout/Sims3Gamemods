@@ -19,6 +19,7 @@
 «Besøg kirkegården» → «Besøg gravpladsen»
 «Uhyggelig kirkegård» → «Uhyggelig gravplads»
 «Kirkegårde er frygtindgydende steder, som er fyldt med døde folk, deres spøgelser og masser af frygt.» → «Gravpladse er frygtindgydende steder, som er fyldt med døde folk, deres spøgelser og masser af frygt.»
+«Kirkegård» (Seemingly a Sim name) → «Bjartalíð»
 «Alle bliver påvirket af dødsfald blandt deres kære. Simmere kan sørge ved en gravsten eller flytte den til en kirkegård for at finde mere fred.» → «Alle bliver påvirket af dødsfald blandt deres kære. Simmere kan sørge ved en gravsten eller flytte den til en gravplads for at finde mere fred.»
 «(Fra kirkegård)» → «(Fra gravplads)»
 «Familien Spøgh har boet i byen siden tidernes morgen, og den lokale kirkegård sin dystre aura klæder dem, men vil en ung dreng ved navn Mortimer have mulighed for en ordentlig opvækst på sådan et sted?» → «Familien Spøgh har boet i byen siden tidernes morgen, og den lokale gravplads sin dystre aura klæder dem, men vil en ung dreng ved navn Mortimer have mulighed for en ordentlig opvækst på sådan et sted?»
@@ -69,5 +70,4 @@
 «Du har placeret Hellig Hvile-kirkegården. Kom over, og hæng ud med nogle spøgelser.» → «Du har placeret Hellig Hvile-gravpladsen. Kom over, og hæng ud med nogle spøgelser.»
 «Fans af møder med spøgelser bør besøge kirkegården, når det er fuldmåne.» → «Fans af møder med spøgelser bør besøge gravpladsen, når det er fuldmåne.»
 «Kirkegården Havblik» → «Gravpladsen Havblik»
-
 «Som barn elskede Javiera at studere spøgelserne på kirkegården.» → «Som barn elskede Javiera at studere spøgelserne på gravpladsen.»
