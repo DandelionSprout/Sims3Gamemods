@@ -1,0 +1,72 @@
+«(From Moondial Horoscope)» → «(From Moondial Forecast)»
+«A complete collection of Zodiac Animals is quite the sight to see!» → «A complete collection of Heroic Animals is quite the sight to see!»
+«According to the horoscope, {0.SimFirstName} may not have Lady Luck at {MA.his}{FA.her} side today.» → «According to the forecast, {0.SimFirstName} may not have Lady Luck at {MA.his}{FA.her} side today.»
+«Although it is newer and boasts better views, Two Leo Center is forever the runner up among Bridgeport’s best locations to live.» → «Although it is newer and boasts better views, Leone Pillar Two is forever the runner up among Bridgeport’s best locations to live.»
+«Aquarius» (The Bridgeport pool club) → «Aquaria»
+«Aquarius» → « »
+«Aries» → « »
+«Ask Sign» → «Ask About Hobby»
+«Astrological Signs» → « »
+«Astrology isn’t based in science, but Sims seem to love it. That being the case, your Sim wants to talk with others about Astrology Signs.» → «Sims seem to love hobbies. That being the case, your Sim wants to talk with others about hobbies.»
+«Built by the Zodiac Group to provide luxury housing to Bridgeport, One Leo Center is considered a premier location in the city.» → «Built by the DeSpaghettini Group to provide luxury housing to Bridgeport, Leone Pillar One is considered a premier location in the city.»
+«Cancer» → « »
+«Capricorn» → « »
+«Check Lunar Horoscope» → «Check Lunar Forecast»
+«Check the Alignment of Stars» → «Check the Movement of Stars»
+«Check the Alignment of the Stars» → «Check the Movement of the Stars»
+«Discovered compatible sign!» → «Discovered shared enthusiasm!»
+«Facial hair is a far superior indicator of personality than astrological signs, wouldn't you say, {MB.Sir}{FB.Madam}? Quite spot-on, it is.» → «Facial hair is a far superior indicator of personality than the books they read, wouldn't you say, {MB.Sir}{FB.Madam}? Quite spot-on, it is.»
+«Gemini» → « »
+«Is your Sim a match made in heaven with another Sim? There's only one way to find out! Your Sim wants to learn a Sim's Astrological Sign.» → «Is your Sim a match of fun hobbies with another Sim? There's only one way to find out! Your Sim wants to learn a Sim's Hobby.»
+«Learn a Sim's Sign» → «Learn a Sim's Hobbies»
+«Learn {1.SimName}'s Sign» → «Learn {1.SimName}'s Hobbies»
+«Leo» → « »
+«Libra» → « »
+«Listen to Talk about Astrology Sign» → «Listen to Talk»
+«Meet a Compatible Sign» → «Meet an Interesting Hobby»
+«One Leo Center - 2br, 2ba» → «Leone Pillar One - 2br, 2ba»
+«Pisces» → « »
+«Randomize Sign» → « »
+«Respond to Question about Sign» → «Respond to Question»
+«Sagittarius» → « »
+«Scorpio» → « »
+«shell building high rise large leone pillar description needs text» → 
+«shell building high rise large leone pillar name needs text» → 
+«shellBldngAptLrgLeoCenter58x30x30Var1a needs text» → «shellBldngAptLrgLeonePillar58x30x30Var1a needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var2b needs description» → «shellBldngAptLrgLeonePillar58x30x30Var2b needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var2b needs text» → «shellBldngAptLrgLeonePillar58x30x30Var2b needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var2c needs description» → «shellBldngAptLrgLeonePillar58x30x30Var2c needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var2c needs text» → «shellBldngAptLrgLeonePillar58x30x30Var2c needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var2d needs description» → «shellBldngAptLrgLeonePillar58x30x30Var2d needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var2d needs text» → «shellBldngAptLrgLeonePillar58x30x30Var2d needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var3b needs description» → «shellBldngAptLrgLeonePillar58x30x30Var3b needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var3b needs text» → «shellBldngAptLrgLeonePillar58x30x30Var3b needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var3c needs description» → «shellBldngAptLrgLeonePillar58x30x30Var3c needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var3c needs text» → «shellBldngAptLrgLeonePillar58x30x30Var3c needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var3d needs description» → «shellBldngAptLrgLeonePillar58x30x30Var3d needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var3d needs text» → «shellBldngAptLrgLeonePillar58x30x30Var3d needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var4b needs description» → «shellBldngAptLrgLeonePillar58x30x30Var4b needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var4b needs text» → «shellBldngAptLrgLeonePillar58x30x30Var4b needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var4c needs description» → «shellBldngAptLrgLeonePillar58x30x30Var4c needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var4c needs text» → «shellBldngAptLrgLeonePillar58x30x30Var4c needs text»
+«shellBldngAptLrgLeoCenter58x30x30Var4d needs description» → «shellBldngAptLrgLeonePillar58x30x30Var4d needs description»
+«shellBldngAptLrgLeoCenter58x30x30Var4d» → «shellBldngAptLrgLeonePillar58x30x30Var4d»
+«Sign:» → « »
+«Sign» → « »
+«Talk about Astrology Sign» → «Talk about Hobby»
+«Taurus» → « »
+«That horoscope didn’t bode well… It’s possible that {0.SimFirstName} will experience betrayal.» → «That forecast didn’t bode well… It’s possible that {0.SimFirstName} will experience betrayal.»
+«This mobile sculpture will delight your child with free-floating planets, moons, and stars. Hang it above their bed, and your child may one day aspire to be a famous astrologist, or even astronomer (if you believe in that sort of thing).» → «This mobile sculpture will delight your child with free-floating planets, moons, and stars. Hang it above their bed, and your child may one day aspire to be a famous astronomer.»
+«Two Leo Center - 2br, 2ba» → «Leone Pillar Two - 1br, 1ba»
+«Virgo» → « »
+«What a horoscope reading! {0.SimFirstName} is excited at the prospect of experiencing prosperity.» → «What a great forecast! {0.SimFirstName} is excited at the prospect of experiencing prosperity.»
+«What's Your Sign?» → «What's Your Hobby?»
+«When your Sim meets another Sim with a compatible Astrological Sign, the planets will align for romance!  Your Sim wants to make an instant connection by meeting a Sim of a certain Astrological Sign.» → «When your Sim meets another Sim with an interesting hobby, the excitements will align for romance! Your Sim wants to make an instant connection by meeting a Sim with a specific hobby interest.»
+«Zodiac Animals» → «Heroic Animals»
+«Zodiac sign discovered!» → « »
+«Zodiac Sign» → « »
+«{0.SimFirstName} is beaming after a fortunate encounter with another Sim schooled in astrology’s awesome ways.» → «{0.SimFirstName} is beaming after a fortunate encounter with another Sim schooled in fun-spreading hobbies.»
+«{0.SimFirstName} is really hoping that horoscope turns out to be true. {MA.He}{FA.She} sure wouldn’t turn down a successful future!» → «{0.SimFirstName} is really hoping that forecast turns out to be true. {MA.He}{FA.She} sure wouldn’t turn down a successful future!
+«{0.SimName} knows every constellation, but {MA.his}{FA.her} scientific knowledge is shallow. As an Amateur Astronomer, {MA.he’ll}{FA.she’ll} entertain {MA.his}{FA.her} friends with astrology and a new Sprite: Astrid!» → «{0.SimName} knows every constellation, but {MA.his}{FA.her} scientific knowledge is shallow. As an Amateur Astronomer, {MA.he’ll}{FA.she’ll} entertain {MA.his}{FA.her} friends with space-scale hobbies and a new Sprite: Astrid!»
+«{0.SimName} learned that {1.SimName} has a compatible sign!» → «{0.SimName} learned that {1.SimName} has a fun hobby!»
+«{0.SimName} learned that {1.SimName} is {2.String}. Those signs are compatible!» → «{0.SimName} learned that {1.SimName} has a fun hobby!»
