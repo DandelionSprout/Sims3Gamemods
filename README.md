@@ -16,3 +16,4 @@ So that I don't keep forgetting about the ideas.
 | Publish the Pestilence Plague fix mod. | Would be ready to publish to MTS on 2 hours' notice, but how on earth am I supposed to get a good thumbnail for it?
 | Make the SN freezing spell far more impacting on a Sim's temperature. | Had some problems figuring out which value(s) to change.
 | Make later EPs' occults able to use Weather Stone; e.g. flower rain for PlantSims. | I could not for the life of me figure out how to change the Weather Stone occult support settings.
+| Create an enterable version of the IP singular resort rabbit hole. | Unsure if it'd be approved by MTS since it's not a particularly big or detailed building.
