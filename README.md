@@ -18,4 +18,4 @@ So that I don't keep forgetting about the ideas.
 | Make later EPs' occults able to use Weather Stone; e.g. flower rain for PlantSims. | I could not for the life of me figure out how to change the Weather Stone occult support settings.
 | Create an enterable version of the IP singular resort rabbit hole. | A glitch with the IP windsurf boards cause them to fall down from the wall after going to Edit Town.
 | More compact version of Varg's Tavern, 22x27sq | Involved EPs: Base, LN, SN
-| Dishwashers on public lots (for UOMA) | Successfully tested, ready to be added to the mod.
+| Dishwashers on public lots (for UOMA) | Successfully tested, ready to be added to the mod. Involved EPs: Base, P, ITF
