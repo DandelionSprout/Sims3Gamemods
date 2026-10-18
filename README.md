@@ -19,3 +19,4 @@ So that I don't keep forgetting about the ideas.
 | Create an enterable version of the IP singular resort rabbit hole. | A glitch with the IP windsurf boards cause them to fall down from the wall after going to Edit Town.
 | More compact version of Varg's Tavern, 22x27sq | Involved EPs: Base, LN, SN
 | Make taxis go faster
+| Pinky recreation in Sims 3 SN | Last (and only) time I tried submitting a CAS Sim to MTS, it didn't go very well.
