@@ -9,7 +9,7 @@ So that I don't keep forgetting about the ideas.
 | Idea | Status
 | - | -
 | Remove the Orthodox roof cross from one of the base game paintings. | Can't find its IMAG/_IMG file(s).
-| Make afterschool activities increase more skills from later EPs. | I've struggled with finding sufficiently many skills for some of the activities.
+| Make afterschool activities increase more skills from later EPs. | •Art: Street Art<br>•Debate: Social Networking, Consignmentʰ<br>•Drama: Dancing, Club Dancingʰ, Karaokeʰ<br>•Music: Laser Rhythm-a-Con, Violin, Air Guitarʰ, DJ Turntableʰ<br>•Newspaper: Advanced Technology<br>•Shop: Inventing, Bot Building, Science, Artisan<br>•Sports: Martial Arts, Scuba Diving, Divingʰ, Trampolineʰ, Skatingʰ, Snowboardingʰ, Ping Pongʰ, Waterskiingʰ, Windsurfingʰ<br>•(Unknown, if any): Alchemy, Cooking, Fishing, Gardening, Mixology, Nectar Making, Riding
 | Reconstruct the Seinfeld apartment. | None of the Late Night skyscraper shells befitted the idea, so a regular 6-floor building would be needed instead.
 | Reconstruct the Isadora Moon house. | 
 | Add additional stadium match days. | Has proven miserably difficult to get working for Sims that are in the Athletic career, and not just for spectators.
@@ -20,3 +20,4 @@ So that I don't keep forgetting about the ideas.
 | More compact version of Varg's Tavern, 22x27sq | Involved EPs: Base, LN, SN
 | Make taxis go faster
 | Pinky recreation in Sims 3 SN | Last (and only) time I tried submitting a CAS Sim to MTS, it didn't go very well.
+| Add more associated careers to the UL majors | •Technology: Bot Arena<br>•Science and Medicine: Astronomy<br>•(No spare careers are available for the other 4 majors)
