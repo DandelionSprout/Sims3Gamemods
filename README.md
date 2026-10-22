@@ -21,3 +21,13 @@ So that I don't keep forgetting about the ideas.
 | Make taxis go faster
 | Pinky recreation in Sims 3 SN | Last (and only) time I tried submitting a CAS Sim to MTS, it didn't go very well.
 | Add more associated careers to the UL majors | •Technology: Bot Arena<br>•Science and Medicine: Astronomy<br>•(No spare careers are available for the other 4 majors)
+| "Unavailable Objects Made Available" supermarket/pharmacy supplement | Should include: G potions, fairy dust, a lot more.
+| Add more objects to the ITF shopping pedestals | Early tests of it had the game softlock when changing from Build Mode to Edit Town.
+
+## Mods that is planned to receive updates
+
+| Mod | Planned changes.
+| - | -
+| British English | ***A l o t .***
+| Shoppingcenter 7000 | • Move the Relics Register by 1sq to prevent routing error.<br>• Add a dishwasher behind the food court.<br>• Add more LN rubbish chutes.<br>• Add a bathhouse?
+| Smarter Horses | • Add UL influence lifetime rewards, so that they can get an additional trait.<br>• Additional lifetime rewards: Inheritance<br>• Make the Floor Hygienator affect them?
