@@ -24,7 +24,7 @@ So that I don't keep forgetting about the ideas.
 | "Unavailable Objects Made Available" supermarket/pharmacy supplement | Should include: G potions, fairy dust, a lot more.
 | Add more objects to the ITF shopping pedestals | Early tests of it had the game softlock when changing from Build Mode to Edit Town.
 
-## Mods that is planned to receive updates
+## Mods that are planned to receive updates
 
 | Mod | Planned changes.
 | - | -
