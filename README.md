@@ -29,5 +29,5 @@ So that I don't keep forgetting about the ideas.
 | Mod | Planned changes.
 | - | -
 | British English | ***A l o t .***
-| Shoppingcenter 7000 | • Move the Relics Register by 1sq to prevent routing error.<br>• Add a dishwasher behind the food court.<br>• Add more LN rubbish chutes.<br>• Add a bathhouse?
+| Shoppingcenter 7000 | • Move the Relics Register by 1sq to prevent routing error.<br>• Add a dishwasher behind the food court.<br>• Add WA photo collections' objects.<br>• Add more LN rubbish chutes.<br>• Add a bathhouse?
 | Smarter Horses | • Add UL influence lifetime rewards, so that they can get an additional trait.<br>• Additional lifetime rewards: Inheritance<br>• Make the Floor Hygienator affect them?
