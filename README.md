@@ -16,7 +16,7 @@ So that I don't keep forgetting about the ideas.
 | Publish the Pestilence Plague fix mod. | Would be ready to publish to MTS on 2 hours' notice, but how on earth am I supposed to get a good thumbnail for it?
 | Make the SN freezing spell far more impacting on a Sim's temperature. | Had some problems figuring out which value(s) to change.
 | Make later EPs' occults able to use Weather Stone; e.g. flower rain for PlantSims. | I could not for the life of me figure out how to change the Weather Stone occult support settings.
-| Create an enterable version of the IP singular resort rabbit hole. | A glitch with the IP windsurf boards cause them to fall down from the wall after going to Edit Town.
+| Create an enterable version of the IP singular resort rabbit hole. | A glitch with the IP windsurf boards causes them to fall down from the wall after going to Edit Town.
 | More compact version of Varg's Tavern, 22x29sq | Involved EPs: Base, LN, SN
 | Make taxis go faster
 | Pinky recreation in Sims 3 SN | Last (and only) time I tried submitting a CAS Sim to MTS, it didn't go very well.
@@ -30,4 +30,4 @@ So that I don't keep forgetting about the ideas.
 | - | -
 | British English | ***A l o t .***
 | Shoppingcenter 7000 | • Move the Relics Register by 1sq to prevent routing error.<br>• Add a dishwasher behind the food court.<br>• Add WA photo collections' objects.<br>• Add more LN rubbish chutes.<br>• Add a bathhouse?<br>• Add a fireplace?
-| Smarter Horses | • Add UL influence lifetime rewards, so that they can get an additional trait.<br>• Additional lifetime rewards: Inheritance<br>• Make the Floor Hygienator affect them?
+| Smarter Horses | • Add UL influence lifetime rewards, so that they can get an additional trait.<br>• Additional lifetime rewards: Inheritance, Discount Diner<br>• Make the Floor Hygienator affect them?
