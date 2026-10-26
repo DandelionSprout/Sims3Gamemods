@@ -21,7 +21,7 @@ So that I don't keep forgetting about the ideas.
 | Pinky recreation in Sims 3 SN | Last (and only) time I tried submitting a CAS Sim to MTS, it didn't go very well.
 | Add more associated careers to the UL majors | •Technology: Bot Arena<br>•Science and Medicine: Astronomy<br>•(No spare careers are available for the other 4 majors)
 | "Unavailable Objects Made Available" supermarket/pharmacy supplement | Should include: G potions, fairy dust, a lot more.
-| Add more objects to the ITF shopping pedestals | Early tests of it had the game softlock when changing from Build Mode to Edit Town. Objects that were/are considered:<br>• (WA) Mirror to the Undersea World ⁽ᶠᵒᵘⁿᵗᵃⁱⁿ⁾<br>• (G) Slim Digital Stereo by McKible Technologies<br>• (G) Air-o-Matic Hot Beverage Machine<br>• (ST) AmpliFLY DJ Booth<br>• (ST) SimTech Column ⁽ᵖʳᵒᵖ⁾<br>• (S) Leafy Shade<br>• (DHTS) Everything in Place Plant Boxes<br>• (OLS) Cosy Terrarium<br>• (TLS) Poetic License Bookshelf<br>• (DHTS) Outside the Box Dresser<br>• (ST) BassBoom Juxebox of the Future
+| Add more objects to the ITF shopping pedestals | Early tests of it had the game softlock when changing from Build Mode to Edit Town. Objects that were/are considered:<br>• (WA) Mirror to the Undersea World ⁽ᶠᵒᵘⁿᵗᵃⁱⁿ⁾<br>• (G) Slim Digital Stereo by McKible Technologies<br>• (G) Air-o-Matic Hot Beverage Machine<br>• (ST) AmpliFLY DJ Booth<br>• (ST) SimTech Column ⁽ᵖʳᵒᵖ⁾<br>• (S) Leafy Shade<br>• (DHTS) Everything in Place Plant Boxes<br>• (OLS) Cosy Terrarium<br>• (TLS) Poetic License Bookshelf<br>• (DHTS) Outside the Box Dresser<br>• (ST) BassBoom Juxebox of the Future<br>• (TLS) Star Bryte ⁽ˡᵃᵐᵖ⁾
 | Create a house(row?) consisting of Instagram reels' open-plan shetters |
 
 ## Mods that are planned to receive updates
