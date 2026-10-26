@@ -21,12 +21,13 @@ So that I don't keep forgetting about the ideas.
 | Pinky recreation in Sims 3 SN | Last (and only) time I tried submitting a CAS Sim to MTS, it didn't go very well.
 | Add more associated careers to the UL majors | •Technology: Bot Arena<br>•Science and Medicine: Astronomy<br>•(No spare careers are available for the other 4 majors)
 | "Unavailable Objects Made Available" supermarket/pharmacy supplement | Should include: G potions, fairy dust, a lot more.
-| Add more objects to the ITF shopping pedestals | Early tests of it had the game softlock when changing from Build Mode to Edit Town.
+| Add more objects to the ITF shopping pedestals | Early tests of it had the game softlock when changing from Build Mode to Edit Town. Objects that were/are considered:<br>• (WA) Mirror to the Undersea World ⁽ᶠᵒᵘⁿᵗᵃⁱⁿ⁾<br>• (G) Slim Digital Stereo by McKible Technologies<br>• (G) Air-o-Matic Hot Beverage Machine<br>• (ST) AmpliFLY DJ Booth<br>• (ST) SimTech Column
+| Create a house(row?) consisting of Instagram reels' open-plan shetters |
 
 ## Mods that are planned to receive updates
 
 | Mod | Planned changes.
 | - | -
-| British English | ***A l o t .***
+| British English | sims → Sims<br> sim → Sim<br> tires → tyres<br> tarmac → asphalt<br> (IP) Add "If in Isla Paradiso" notes to scuba level-up notifications
 | Shoppingcenter 7000 | • Move the Relics Register by 1sq to prevent routing error.<br>• Add a dishwasher behind the food court.<br>• Add WA photo collections' objects.<br>• Add more LN rubbish chutes.<br>• Add a bathhouse?<br>• Add a fireplace?
 | Smarter Horses | • Add UL influence lifetime rewards, so that they can get an additional trait.<br>• Additional lifetime rewards: Inheritance, Discount Diner<br>• Make the Floor Hygienator affect them?
