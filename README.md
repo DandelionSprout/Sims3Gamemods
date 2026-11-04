@@ -23,6 +23,8 @@ So that I don't keep forgetting about the ideas.
 | "Unavailable Objects Made Available" supermarket/pharmacy supplement | Should include: G potions, fairy dust, a lot more.
 | Add more objects to the ITF shopping pedestals | Early tests of it had the game softlock when changing from Build Mode to Edit Town. Objects that were/are considered:<br>• (WA) Mirror to the Undersea World ⁽ᶠᵒᵘⁿᵗᵃⁱⁿ⁾<br>• (G) Slim Digital Stereo by McKible Technologies<br>• (G) Air-o-Matic Hot Beverage Machine<br>• (ST) AmpliFLY DJ Booth<br>• (ST) SimTech Column ⁽ᵖʳᵒᵖ⁾<br>• (S) Leafy Shade<br>• (DHTS) Everything in Place Plant Boxes<br>• (OLS) Cosy Terrarium<br>• (TLS) Poetic License Bookshelf<br>• (DHTS) Outside the Box Dresser<br>• (ST) BassBoom Juxebox of the Future<br>• (TLS) Star Bryte ⁽ˡᵃᵐᵖ⁾
 | Create a house(row?) consisting of Instagram reels' open-plan shetters |
+| Inflate Buy Mode prices to simulate an economic recession | A whole lot of objects would need to be changed.
+| Make more skills related to UL majors | 
 
 ## Mods that are planned to receive updates
 
@@ -31,3 +33,4 @@ So that I don't keep forgetting about the ideas.
 | British English | sims → Sims<br> sim → Sim<br> tires → tyres<br> tarmac → asphalt<br> (IP) Add "If in Isla Paradiso" notes to scuba level-up notifications
 | Shoppingcenter 7000 | • Move the Relics Register by 1sq to prevent routing error.<br>• Add a dishwasher behind the food court.<br>• Add WA photo collections' objects.<br>• Add more LN rubbish chutes.<br>• Add a bathhouse?<br>• Add a fireplace?
 | Smarter Horses | • Add UL influence lifetime rewards, so that they can get an additional trait.<br>• Additional lifetime rewards: Inheritance, Discount Diner<br>• Make the Floor Hygienator affect them?
+| The City That Never Sleeps | • Make various UL Business activities 24/7<br>• Make exams start at 11 instead of 13?
