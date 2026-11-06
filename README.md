@@ -16,7 +16,7 @@ So that I don't keep forgetting about the ideas.
 | Publish the Pestilence Plague fix mod. | Would be ready to publish to MTS on 2 hours' notice, but how on earth am I supposed to get a good thumbnail for it?
 | Make the SN freezing spell far more impacting on a Sim's temperature. | Had some problems figuring out which value(s) to change.
 | Make later EPs' occults able to use Weather Stone; e.g. flower rain for PlantSims. | I could not for the life of me figure out how to change the Weather Stone occult support settings.
-| Create an enterable version of the IP singular resort rabbit hole. | A glitch with the IP windsurf boards causes them to fall down from the wall after going to Edit Town.
+| Create an enterable version of the IP singular resort rabbit hole. | ❌ A glitch with the IP windsurf boards causes them to fall down from the wall after going to Edit Town.
 | More compact version of Varg's Tavern, 22x29sq | Involved EPs: Base, LN, SN
 | Pinky recreation in Sims 3 SN | Last (and only) time I tried submitting a CAS Sim to MTS, it didn't go very well.
 | Add more associated careers to the UL majors | •Technology: Bot Arena<br>•Science and Medicine: Astronomy<br>•(No spare careers are available for the other 4 majors)
@@ -33,5 +33,5 @@ So that I don't keep forgetting about the ideas.
 | British English | sims → Sims<br> sim → Sim<br> tires → tyres<br> tarmac → asphalt<br> (IP) Add "If in Isla Paradiso" notes to scuba level-up notifications
 | Shoppingcenter 7000 | • Move the Relics Register by 1sq to prevent routing error.<br>• Add a dishwasher behind the food court.<br>• Add WA photo collections' objects, incl.<br>• • Build Mode sunflower<br>• • Build Mode Semi-Roses 42§<br>• • Build Mode Pink or white Hydrangea §1<br>• • Build Mode Rosey Roses §45<br>• • base game towl rack §35<br>• • a fridge next to the dishwasher<br>• • flamingo §5<br>• • box of tissues §4<br>• • candle 65§<br>• • sprinkler<br>• • teddy bear<br>• • urn<br>• • floor trap<br>• • floor switch<br>• • pile of ancient coins<br>• • balloons<br>• • pushable statue<br>• • "Magic Sun Stick" large lamp<br>• • Soulpeace Statue<br>• • Pile of Rubble?<br>• • IP wedding arch<br>• Add more LN rubbish chutes.<br>• Add a bathhouse?<br>• Add a fireplace?<br>• Add Philosopher's Stone
 | Smarter Horses | • Add UL influence lifetime rewards, so that they can get an additional trait.<br>• Additional lifetime rewards: Inheritance, Discount Diner<br>• Make the Floor Hygienator affect them?
-| The City That Never Sleeps | • Make various UL Business activities 24/7<br>• Make exams start at 11 instead of 13?
+| The City That Never Sleeps | • Make exams start at 11 instead of 13?
 | UOMA | • Picnic baskets on community lots?
