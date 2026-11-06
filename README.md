@@ -30,7 +30,7 @@ So that I don't keep forgetting about the ideas.
 
 | Mod | Planned changes.
 | - | -
-| British English | sims → Sims<br> sim → Sim<br> tires → tyres<br> tarmac → asphalt<br> (IP) Add "If in Isla Paradiso" notes to scuba level-up notifications
+| British English | sims → Sims<br> sim → Sim<br> tires → tyres<br> tarmac → asphalt<br> (IP) Add "If in Isla Paradiso" notes to scuba level-up notifications<br>• (Base?) Improve the "Perhaps its time" fix
 | Shoppingcenter 7000 | • Move the Relics Register by 1sq to prevent routing error.<br>• Add a dishwasher behind the food court.<br>• Add WA photo collections' objects, incl.<br>• • Build Mode sunflower<br>• • Build Mode Semi-Roses 42§<br>• • Build Mode Pink or white Hydrangea §1<br>• • Build Mode Rosey Roses §45<br>• • base game towl rack §35<br>• • a fridge next to the dishwasher<br>• • flamingo §5<br>• • box of tissues §4<br>• • candle 65§<br>• • sprinkler<br>• • teddy bear<br>• • urn<br>• • floor trap<br>• • floor switch<br>• • pile of ancient coins<br>• • balloons<br>• • pushable statue<br>• • "Magic Sun Stick" large lamp<br>• • Soulpeace Statue<br>• • Pile of Rubble?<br>• • IP wedding arch<br>• Add more LN rubbish chutes.<br>• Add a bathhouse?<br>• Add a fireplace?<br>• Add Philosopher's Stone
 | Smarter Horses | • Add UL influence lifetime rewards, so that they can get an additional trait.<br>• Additional lifetime rewards: Inheritance, Discount Diner<br>• Make the Floor Hygienator affect them?
 | The City That Never Sleeps | • Make exams start at 11 instead of 13?
